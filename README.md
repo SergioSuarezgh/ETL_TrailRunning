@@ -46,37 +46,41 @@ Subimos los archivos a SQL
 
 De primeras generamos una tabla por carrera y año lo cual nos dejeran unas 33 tablas. 
 
-![img]image.png
+![img]'../ETL_TrailRunning/img/tablas.png
 
 Finalmente se reducen las mismas dejando solo una tabla por carrera y agrupando en la misma todos los años de las carreras para dejar un diseño más claro y funcional
 
-![img]image.png
-
+![img]'../ETL_TrailRunning/img/tabla_normalizada.png'
 
 
 # CONCLUSIONES
 
 Podemos ver que hay una gran diferencia de participación en todas las carreras entre hombres y mujeres y que en los años no mejora
 
-![img]image.png
+![img]'../ETL_TrailRunning/img/participacion_x_sexo.png'
 
 Podemos ver que principalmente participan en estas carreras personas de entre 18 y 50 años(Senior y Vet-A) y que se replica tanto en hombres como en mujeres
 
-![img]image.png
+![img]'../ETL_TrailRunning/img/cat_x_sex.png'
 
 Si nos centramos en el UTMB vemos que el top-10 lo copan los hombres pero el último año ya ha entrado una mujer en el top-10
 
-![img]image.png
+![img]'../ETL_TrailRunning/img/pos_sex.png'
+
+Con respecto a los paises hay un claro dominio francés muy seguidos por España aunque las primeras posiciones se las reparten entre los dos
+
+![img]'../ETL_TrailRunning/img/puesto_pais.png'
+
 
 Por último vemos que en el caso de las mujeres la mejoría de posiciones y tiempos es evidente. En el caso de los hombres no ocurre asi
 
 MUJERES
 
-![img]image.png
+![img]'../ETL_TrailRunning/img/Hombres.png'
 
 HOMBRES
 
-![img]image.png
+![img]'../ETL_TrailRunning/img/Mujeres.png'
 
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7qCfot089mxGvGqZIBwroitOHTqPiXPEEGWTeHI8xvq_8aXXtEXltxnLsx-l5vGfwJA&usqp=CAU)
