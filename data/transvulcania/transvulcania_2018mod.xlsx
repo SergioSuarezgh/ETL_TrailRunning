@@ -1,0 +1,1369 @@
+posicion,tiempo,dif,nombre,club,pais,sex,cat,carrera,anio
+1,07:37:26,00:00:00,Perr AURELL,N/D,España,M,SENIOR,transvulcania,2018
+2,07:38:22,00:00:00,Dmitry MITYAEV,N/D,Russia,M,SENIOR,transvulcania,2018
+3,07:42:49,00:00:00,Thibaut GARRIVIER,N/D,Francia,M,SENIOR,transvulcania,2018
+4,07:44:26,00:00:00,Marco DE GASPERI,N/D,Italia,M,VET-A,transvulcania,2018
+5,07:46:53,00:00:00,Xavier THEVENARD,N/D,Francia,M,SENIOR,transvulcania,2018
+6,07:48:44,00:00:00,Manuel ANGUITA,N/D,España,M,SENIOR,transvulcania,2018
+7,07:51:40,00:00:00,Daniel JUNG,N/D,Italia,M,SENIOR,transvulcania,2018
+8,07:53:01,00:00:00,Hannes NAMBERGER,N/D,Alemania,M,SENIOR,transvulcania,2018
+9,07:54:22,00:00:00,Morgan ELLIOTT,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+10,07:59:16,00:00:00,Daniel GARCIA,N/D,Panamá,M,SENIOR,transvulcania,2018
+11,08:05:42,00:00:00,Michel LANNE,N/D,Francia,M,SENIOR,transvulcania,2018
+12,08:07:58,00:00:00,Cole WATSON,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+13,08:14:18,00:00:00,Cody REED,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+14,08:17:19,00:00:00,Francesc SOLE,N/D,España,M,SENIOR,transvulcania,2018
+15,08:19:45,00:00:00,Benoit CRETIEN,N/D,Francia,M,SENIOR,transvulcania,2018
+16,08:21:57,00:00:00,Franco COLLE,N/D,Italia,M,VET-A,transvulcania,2018
+17,08:26:09,00:00:00,Diego ARROYO,N/D,España,M,SENIOR,transvulcania,2018
+18,08:30:54,00:00:00,Estanislao RIVERO GARCÍA,N/D,España,M,SENIOR,transvulcania,2018
+19,08:34:26,00:00:00,Raul BUTACI,N/D,Rumanía,M,SENIOR,transvulcania,2018
+20,08:35:39,00:00:00,Jan MRAZEK,N/D,República Checa,M,SENIOR,transvulcania,2018
+21,08:37:45,00:00:00,Antonio MANJON,N/D,España,M,VET-A,transvulcania,2018
+22,08:38:13,00:00:00,Peter FRANO,N/D,Eslovaquia,M,SENIOR,transvulcania,2018
+23,08:39:30,00:00:00,Christophe ANSELMO,N/D,Francia,M,SENIOR,transvulcania,2018
+24,08:40:17,00:00:00,Samuel FERNANDEZ-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+25,08:40:43,00:00:00,Ida NILSSON,N/D,Suecia,F,SENIOR,transvulcania,2018
+26,08:42:13,00:00:00,Abel ABAD,N/D,España,M,SENIOR,transvulcania,2018
+27,08:44:00,00:00:00,Clement DURANCE,N/D,Francia,M,SENIOR,transvulcania,2018
+28,08:46:57,00:00:00,Monica COMAS,N/D,España,F,SENIOR,transvulcania,2018
+29,08:48:22,00:00:00,Charalampos KALAMPOUKAS,N/D,Grecia,M,SENIOR,transvulcania,2018
+30,08:49:45,00:00:00,Kelly WOLF,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+31,08:52:28,00:00:00,Paul OGIER,N/D,Francia,M,SENIOR,transvulcania,2018
+32,08:55:00,00:00:00,Jason SCHLARB,N/D,Estados Unidos,M,VET-A,transvulcania,2018
+33,08:58:25,00:00:00,Jesus FRAILE JIMÉNEZ,N/D,España,M,VET-A,transvulcania,2018
+34,08:59:31,00:00:00,Brittany PETERSON,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+35,09:00:21,00:00:00,Juan-Jose CALISTO,N/D,Ecuador,M,SENIOR,transvulcania,2018
+36,09:00:23,00:00:00,Jorge MARTINEZ-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+37,09:01:27,00:00:00,Chus ALVAREZ,N/D,España,M,VET-A,transvulcania,2018
+38,09:01:49,00:00:00,Aythami SANCHEZ-ROCHA,N/D,España,M,SENIOR,transvulcania,2018
+39,09:01:54,00:00:00,Miguel-Angel HERNANDEZ-ESPINO,N/D,España,M,VET-A,transvulcania,2018
+40,09:06:07,00:00:00,Miguel FERRER,N/D,España,M,VET-A,transvulcania,2018
+41,09:07:37,00:00:00,Benet POUS-SOLER,N/D,España,M,SENIOR,transvulcania,2018
+42,09:10:20,00:00:00,Albi CEDRÈS VIÑOLY,N/D,España,M,SENIOR,transvulcania,2018
+43,09:10:20,00:00:00,Eetu NORDMAN,N/D,Finlandia,M,SENIOR,transvulcania,2018
+44,09:10:29,00:00:00,Ivan CACERES-RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+45,09:10:55,00:00:00,Sergio VILLEGAS,N/D,España,M,VET-A,transvulcania,2018
+46,09:12:23,00:00:00,Emilio RAMOS-RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+47,09:12:43,00:00:00,Alfredo GIL-GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+48,09:13:08,00:00:00,Alister GARDNER,N/D,Canadá,M,SENIOR,transvulcania,2018
+49,09:13:34,00:00:00,Ekaterina MITYAEVA,N/D,Russia,F,SENIOR,transvulcania,2018
+50,09:14:57,00:00:00,Patrick CARON,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+51,09:18:13,00:00:00,Angel CARULLA,N/D,España,M,VET-A,transvulcania,2018
+52,09:19:54,00:00:00,Roberto MARRERO PEREZ,N/D,España,M,VET-A,transvulcania,2018
+53,09:19:59,00:00:00,Angel ORTEGA-SANTANA,N/D,España,M,VET-A,transvulcania,2018
+54,09:21:45,00:00:00,Oscar MONCLUS,N/D,España,M,SENIOR,transvulcania,2018
+55,09:21:57,00:00:00,Jabin PEREZ GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+56,09:22:42,00:00:00,Anna Mae FLYNN,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+57,09:24:42,00:00:00,Pablo RAMOS-REYES,N/D,España,M,SENIOR,transvulcania,2018
+58,09:26:00,00:00:00,Roberto GARCIA-FERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+59,09:26:22,00:00:00,Melvyn BRACON,N/D,Francia,M,SENIOR,transvulcania,2018
+60,09:27:30,00:00:00,Julien VERHOLLE,N/D,Francia,M,SENIOR,transvulcania,2018
+61,09:27:50,00:00:00,Ivan RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+62,09:28:15,00:00:00,Shaun STEWART,N/D,Irlanda,M,SENIOR,transvulcania,2018
+63,09:28:51,00:00:00,Lluis BAELLA,N/D,España,M,VET-A,transvulcania,2018
+64,09:28:56,00:00:00,Jorge-Vidal HERRERA-ORTEGA,N/D,España,M,VET-A,transvulcania,2018
+65,09:28:58,00:00:00,Andres SANTANA-FERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+66,09:30:34,00:00:00,Andre VOLLAN JOHANSSON,N/D,Suecia,M,SENIOR,transvulcania,2018
+67,09:30:50,00:00:00,Charlie BUTCHER,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+68,09:31:52,00:00:00,Rafael FERNANDEZ MENA,N/D,España,M,SENIOR,transvulcania,2018
+69,09:32:06,00:00:00,Jan BARTAS,N/D,República Checa,M,SENIOR,transvulcania,2018
+70,09:32:07,00:00:00,Peter FANKHAUSER,N/D,Austria,M,VET-A,transvulcania,2018
+71,09:32:52,00:00:00,Victor BAYONA,N/D,España,M,SENIOR,transvulcania,2018
+72,09:33:35,00:00:00,Manuel GONZALEZ-FRANCISCO,N/D,España,M,VET-A,transvulcania,2018
+73,09:33:35,00:00:00,Pedro Miguel PERERA MAGDALENA,N/D,España,M,VET-B,transvulcania,2018
+74,09:33:54,00:00:00,Ed MELBOURNE,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+75,09:34:33,00:00:00,Jose Maria GARCIA LOPEZ,N/D,España,M,VET-A,transvulcania,2018
+76,09:35:03,00:00:00,Jaume SALOM-PARETS,N/D,España,M,VET-A,transvulcania,2018
+77,09:36:21,00:00:00,Adrian SANTIAGO-ANDRES,N/D,España,M,VET-A,transvulcania,2018
+78,09:36:27,00:00:00,Antonio ROCAMORA,N/D,España,M,SENIOR,transvulcania,2018
+79,09:36:47,00:00:00,Rafael CABANILLAS CARRILLO,N/D,España,M,SENIOR,transvulcania,2018
+80,09:37:00,00:00:00,Alan SICART,N/D,Italia,M,SENIOR,transvulcania,2018
+81,09:38:32,00:00:00,Javier BOTRAN DE LEON,N/D,España,M,SENIOR,transvulcania,2018
+82,09:38:44,00:00:00,Peter KIENZL,N/D,Italia,M,VET-A,transvulcania,2018
+83,09:39:16,00:00:00,Jose-Manuel RODRIGUEZ-GOMEZ,N/D,España,M,VET-A,transvulcania,2018
+84,09:40:21,00:00:00,Laro DIAZ SALAM,N/D,España,M,VET-A,transvulcania,2018
+85,09:42:48,00:00:00,Hector GRANADO VILLACE,N/D,España,M,SENIOR,transvulcania,2018
+86,09:43:23,00:00:00,Juan SUAREZ,N/D,España,M,SENIOR,transvulcania,2018
+87,09:43:45,00:00:00,Erik SORENSON,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+88,09:46:14,00:00:00,Jose Manuel VIVES,N/D,Chile,M,SENIOR,transvulcania,2018
+89,09:48:37,00:00:00,Tim HÖME,N/D,Alemania,M,SENIOR,transvulcania,2018
+90,09:48:46,00:00:00,Manuel Alexis MARTÍN LORENZO,N/D,España,M,SENIOR,transvulcania,2018
+91,09:48:46,00:00:00,José Jonathan GUILLEN DELGADO,N/D,España,M,SENIOR,transvulcania,2018
+92,09:49:14,00:00:00,Oscar MARIN,N/D,España,M,SENIOR,transvulcania,2018
+93,09:49:41,00:00:00,Lonan O FARRELL,N/D,Irlanda,M,SENIOR,transvulcania,2018
+94,09:52:37,00:00:00,Angel VILLEN,N/D,España,M,SENIOR,transvulcania,2018
+95,09:52:49,00:00:00,Pedro PEREZ-PALENZUELA,N/D,España,M,SENIOR,transvulcania,2018
+96,09:53:28,00:00:00,Jaime-Jose GOMEZ-CACERES,N/D,España,M,VET-B,transvulcania,2018
+97,09:54:46,00:00:00,Simone SCHWARZ,N/D,Alemania,F,SENIOR,transvulcania,2018
+98,09:56:10,00:00:00,Dario SANMIGUEL-CERVERA,N/D,España,M,VET-A,transvulcania,2018
+99,09:57:59,00:00:00,Sergio AMAYA,N/D,España,M,SENIOR,transvulcania,2018
+100,09:58:18,00:00:00,David ROBINETTE,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+101,09:59:49,00:00:00,Ivan CABANAS,N/D,España,M,VET-A,transvulcania,2018
+102,10:00:05,00:00:00,Ivan MORENO,N/D,España,M,SENIOR,transvulcania,2018
+103,10:00:10,00:00:00,Alejandro DEL BUSTO,N/D,España,M,SENIOR,transvulcania,2018
+104,10:00:16,00:00:00,Jaime ROMAN RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+105,10:00:21,00:00:00,José Luis LECHÉ ACERO,N/D,España,M,VET-A,transvulcania,2018
+106,10:02:38,00:00:00,Jesus-Emilio CASTRO-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+107,10:02:48,00:00:00,Jose-Israel FERNANDEZ-CACERES,N/D,España,M,VET-B,transvulcania,2018
+108,10:04:52,00:00:00,Roser ESPANOL,N/D,España,F,VET-A,transvulcania,2018
+109,10:07:11,00:00:00,Atanasio RUIZ-GONZALEZ,N/D,España,M,VET-B,transvulcania,2018
+110,10:07:50,00:00:00,Daniel PATINO,N/D,España,M,SENIOR,transvulcania,2018
+111,10:08:11,00:00:00,Felix-Roberto MARTIN-LORENZO,N/D,España,M,VET-A,transvulcania,2018
+112,10:08:54,00:00:00,Claire BANNWARTH,N/D,Francia,F,SENIOR,transvulcania,2018
+113,10:09:06,00:00:00,John BENAMATI,N/D,Italia,M,VET-A,transvulcania,2018
+114,10:09:37,00:00:00,Jairo PONCE DE LEON,N/D,España,M,SENIOR,transvulcania,2018
+115,10:10:08,00:00:00,Francisco PAZO-TORRES,N/D,España,M,VET-A,transvulcania,2018
+116,10:10:58,00:00:00,Thomas QUIRK,N/D,Estados Unidos,M,VET-A,transvulcania,2018
+117,10:13:00,00:00:00,Manuel OSUNA-AGUILERA,N/D,España,M,SENIOR,transvulcania,2018
+118,10:14:02,00:00:00,Sergio ARIAS,N/D,España,M,VET-A,transvulcania,2018
+119,10:14:30,00:00:00,Jose Ivan QUINTANA URBANO,N/D,España,M,SENIOR,transvulcania,2018
+120,10:15:20,00:00:00,Jordi GRANELL-DÍAZ,N/D,España,M,SENIOR,transvulcania,2018
+121,10:15:56,00:00:00,Sergio BERMEJO-CHECA,N/D,España,M,VET-A,transvulcania,2018
+122,10:16:18,00:00:00,Michael NASH,N/D,Sudáfrica,M,SENIOR,transvulcania,2018
+123,10:16:34,00:00:00,Raul PEDROS-RUIZ,N/D,España,M,SENIOR,transvulcania,2018
+124,10:16:41,00:00:00,Romain BERGER,N/D,Francia,M,SENIOR,transvulcania,2018
+125,10:17:06,00:00:00,Javier CARRASCOSA,N/D,España,M,VET-A,transvulcania,2018
+126,10:17:12,00:00:00,Marc SADURNI-DE LA TORRE,N/D,España,M,SENIOR,transvulcania,2018
+127,10:18:24,00:00:00,German CASTILLO,N/D,España,M,SENIOR,transvulcania,2018
+128,10:18:55,00:00:00,Zuzana BARTASOVA,N/D,República Checa,F,SENIOR,transvulcania,2018
+129,10:19:19,00:00:00,Daniel KUMELIS,N/D,Alemania,M,VET-A,transvulcania,2018
+130,10:19:56,00:00:00,Jordi GALLIFA CASADESÚS,N/D,España,M,SENIOR,transvulcania,2018
+131,10:20:18,00:00:00,Nico PASTOR-VILLAGRASA,N/D,España,M,SENIOR,transvulcania,2018
+132,10:21:01,00:00:00,Roberto HERNÁNDEZ-SANTOS,N/D,España,M,VET-A,transvulcania,2018
+133,10:21:48,00:00:00,Philip SCHOLZ,N/D,Alemania,M,SENIOR,transvulcania,2018
+134,10:22:06,00:00:00,Laura CHIARA BESSEGHINI,N/D,España,F,VET-A,transvulcania,2018
+135,10:23:44,00:00:00,Jose Antonio FAS JUAN,N/D,España,M,SENIOR,transvulcania,2018
+136,10:23:50,00:00:00,Alexander KAPP,N/D,Alemania,M,SENIOR,transvulcania,2018
+137,10:24:37,00:00:00,Martin BERGER,N/D,Italia,M,VET-A,transvulcania,2018
+138,10:25:10,00:00:00,Emilie LECOMTE,N/D,Francia,F,SENIOR,transvulcania,2018
+139,10:25:31,00:00:00,Fran REVERÓN-MORALES,N/D,España,M,SENIOR,transvulcania,2018
+140,10:25:53,00:00:00,Germán CUARTERO-CLÉRIGUES,N/D,España,M,SENIOR,transvulcania,2018
+141,10:28:11,00:00:00,Jorge MARTINEZ TOJAR,N/D,España,M,SENIOR,transvulcania,2018
+142,10:28:24,00:00:00,Giovanni AFONSO,N/D,España,M,SENIOR,transvulcania,2018
+143,10:28:45,00:00:00,Tomasz BOLANSKI,N/D,España,M,SENIOR,transvulcania,2018
+144,10:29:03,00:00:00,Chris BEDFORD,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+145,10:30:38,00:00:00,Jonathan VAN DER KROGT,N/D,"Países Bajos, Holanda",M,SENIOR,transvulcania,2018
+146,10:31:17,00:00:00,Luke SKINNER,N/D,Reino Unido,M,VET-A,transvulcania,2018
+147,10:31:27,00:00:00,Maxime VENTURELLI,N/D,Bélgica,M,SENIOR,transvulcania,2018
+148,10:32:46,00:00:00,Manuel RUIZ-RAMIREZ,N/D,España,M,SENIOR,transvulcania,2018
+149,10:32:55,00:00:00,Oliver DE LA CRUZ,N/D,España,M,SENIOR,transvulcania,2018
+150,10:32:55,00:00:00,Miguel-Angel GONZALEZ-MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+151,10:33:51,00:00:00,Victor Moises NONATO PEREZ,N/D,España,M,VET-A,transvulcania,2018
+152,10:34:01,00:00:00,Christophe PASQUALI,N/D,España,M,VET-A,transvulcania,2018
+153,10:34:13,00:00:00,Ramiro PERNIA,N/D,España,M,VET-A,transvulcania,2018
+154,10:34:33,00:00:00,Marco-Antonio PAEZ-CABRERA,N/D,España,M,SENIOR,transvulcania,2018
+155,10:35:49,00:00:00,Francisco Jose RODRIGUEZ BARRETO,N/D,España,M,SENIOR,transvulcania,2018
+156,10:37:01,00:00:00,Carlos-Javier HERNÁNDEZ-GONZÁLEZ,N/D,España,M,SENIOR,transvulcania,2018
+157,10:37:39,00:00:00,Jose GONZALEZ-NAVARRO,N/D,España,M,VET-B,transvulcania,2018
+158,10:37:54,00:00:00,Basilio LABRADOR,N/D,España,M,VET-B,transvulcania,2018
+159,10:37:56,00:00:00,Mikel VIVAR-DEL BARRIO,N/D,España,M,SENIOR,transvulcania,2018
+160,10:38:20,00:00:00,Miguel RODRIGUEZ-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+161,10:38:36,00:00:00,Miguel Angel DIAZ ALMENARA,N/D,España,M,VET-A,transvulcania,2018
+162,10:40:18,00:00:00,Jose SAMANIEGO,N/D,España,M,SENIOR,transvulcania,2018
+163,10:40:30,00:00:00,William SWEENEY,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+164,10:41:33,00:00:00,Mathieu OLIVREAU,N/D,Francia,M,SENIOR,transvulcania,2018
+165,10:41:53,00:00:00,Jose DIAZ SANCHEZ,N/D,España,M,SENIOR,transvulcania,2018
+166,10:41:55,00:00:00,Juan Antonio FERNANDEZ HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+167,10:42:10,00:00:00,Esteban PEREZ ARROYO,N/D,España,M,SENIOR,transvulcania,2018
+168,10:42:14,00:00:00,Jordi BARRANCOS,N/D,España,M,VET-A,transvulcania,2018
+169,10:42:28,00:00:00,Ivan DOMINGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+170,10:43:01,00:00:00,Joacim MARTINSSON,N/D,Suecia,M,VET-A,transvulcania,2018
+171,10:43:37,00:00:00,Steven Paul COELLO DIXON,N/D,España,M,SENIOR,transvulcania,2018
+172,10:43:50,00:00:00,Kaspar SCHLUER,N/D,Suiza,M,VET-A,transvulcania,2018
+173,10:45:21,00:00:00,Pedro-Miguel RAMOS-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+174,10:46:48,00:00:00,Fran QUINTERO,N/D,España,M,SENIOR,transvulcania,2018
+175,10:48:34,00:00:00,Janson HEATH,N/D,Reino Unido,M,VET-A,transvulcania,2018
+176,10:48:37,00:00:00,Carlos LORENZO-LORENZO,N/D,España,M,SENIOR,transvulcania,2018
+177,10:49:04,00:00:00,Laurent MAURIES,N/D,Francia,M,VET-A,transvulcania,2018
+178,10:49:06,00:00:00,Jose-Antonio PEREZ-VITORIA,N/D,España,M,VET-A,transvulcania,2018
+179,10:49:22,00:00:00,Cassie SCALLON,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+180,10:49:37,00:00:00,Markus WINKLER,N/D,Austria,M,VET-B,transvulcania,2018
+181,10:49:42,00:00:00,Xabier AGIRRE-REBANAL,N/D,España,M,SENIOR,transvulcania,2018
+182,10:49:54,00:00:00,Alberto MATOS REYES,N/D,España,M,SENIOR,transvulcania,2018
+183,10:50:29,00:00:00,Stephen WASSATHER,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+184,10:51:22,00:00:00,Diego SAIZ-MOYA,N/D,España,M,SENIOR,transvulcania,2018
+185,10:51:36,00:00:00,Emilio GONZALEZ-MARTIN,N/D,España,M,VET-A,transvulcania,2018
+186,10:51:36,00:00:00,Francisco GONZALEZ VARELA,N/D,España,M,VET-A,transvulcania,2018
+187,10:52:10,00:00:00,Franck BEQUILLEUX,N/D,Francia,M,VET-B,transvulcania,2018
+188,10:52:51,00:00:00,Thibaut LAMY,N/D,Francia,M,SENIOR,transvulcania,2018
+189,10:53:05,00:00:00,Marcos LOPEZ-ALVAREZ,N/D,España,M,VET-A,transvulcania,2018
+190,10:53:25,00:00:00,Francisco-Javier BORREDA-CAPELLA,N/D,España,M,VET-A,transvulcania,2018
+191,10:53:48,00:00:00,Fernando MIGUEL,N/D,España,M,VET-A,transvulcania,2018
+192,10:53:59,00:00:00,Iban UGARTEBURU PLAZAOLA,N/D,España,M,SENIOR,transvulcania,2018
+193,10:54:10,00:00:00,Alejandro NAVARRO-SANTANA,N/D,España,M,VET-A,transvulcania,2018
+194,10:54:12,00:00:00,Eduardo DELGADO-MATEOS,N/D,España,M,SENIOR,transvulcania,2018
+195,10:54:18,00:00:00,Víctor SACRISTÁN-ARAGÓN,N/D,España,M,SENIOR,transvulcania,2018
+196,10:54:26,00:00:00,Birgir SAEVARSOON,N/D,Islandia,M,VET-A,transvulcania,2018
+197,10:54:52,00:00:00,Manuel SANTELLA CERERO,N/D,España,M,VET-B,transvulcania,2018
+198,10:55:36,00:00:00,Nadezda SURMONINA,N/D,Georgia,F,SENIOR,transvulcania,2018
+199,10:55:45,00:00:00,Juan Maria JIMENEZ LLORENS,N/D,España,M,SENIOR,transvulcania,2018
+200,10:56:41,00:00:00,Jose-Andres RODRIGUEZ-PALENZUELA,N/D,España,M,SENIOR,transvulcania,2018
+201,10:56:59,00:00:00,Emilio LORENZO-CARREÑO,N/D,España,M,VET-B,transvulcania,2018
+202,10:57:33,00:00:00,Ayoze SANTANA-ARTILES,N/D,España,M,SENIOR,transvulcania,2018
+203,10:57:47,00:00:00,Xabier PRIETO ALONSO,N/D,España,M,SENIOR,transvulcania,2018
+204,10:58:01,00:00:00,Alberto AURENSANZ,N/D,España,M,SENIOR,transvulcania,2018
+205,10:58:07,00:00:00,Cristian BOTAS,N/D,España,M,SENIOR,transvulcania,2018
+206,10:58:31,00:00:00,Miguel-Ángel SUÁREZ-PÉREZ,N/D,España,M,SENIOR,transvulcania,2018
+207,10:58:31,00:00:00,Jean Francois POIRIER,N/D,Francia,M,VET-A,transvulcania,2018
+208,10:59:03,00:00:00,Felix-Manuel ACOSTA-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+209,10:59:31,00:00:00,Ashley MIDDLEWICK,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+210,11:01:50,00:00:00,Klaus MATTHEE,N/D,Alemania,M,VET-B,transvulcania,2018
+211,11:01:51,00:00:00,Sebastian PICHLER,N/D,Austria,M,SENIOR,transvulcania,2018
+212,11:02:04,00:00:00,Jose-Francisco IGLESIAS-MARTIN,N/D,España,M,VET-A,transvulcania,2018
+213,11:02:08,00:00:00,Ildikó WERMESCHER,N/D,Hungría,F,VET-B,transvulcania,2018
+214,11:02:09,00:00:00,Jacinto PICARDO,N/D,España,M,SENIOR,transvulcania,2018
+215,11:02:38,00:00:00,Jonathan GONZÁLEZ MEDEZ,N/D,España,M,SENIOR,transvulcania,2018
+216,11:03:14,00:00:00,David JIMENEZ-MEJIAS,N/D,España,M,SENIOR,transvulcania,2018
+217,11:03:32,00:00:00,James SCOTT,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+218,11:03:46,00:00:00,Roberto LEÓN-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+219,11:04:02,00:00:00,Derek HOSSACK,N/D,España,M,SENIOR,transvulcania,2018
+220,11:04:33,00:00:00,Rayko Omar RODRIGUEZ CONCEPCION,N/D,España,M,SENIOR,transvulcania,2018
+221,11:04:55,00:00:00,Alberto BLANCH JAVIERRE,N/D,España,M,SENIOR,transvulcania,2018
+222,11:05:18,00:00:00,Eloy RAMOS-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+223,11:05:57,00:00:00,Leon Diaz OCTAVIO,N/D,España,M,SENIOR,transvulcania,2018
+224,11:06:39,00:00:00,Alberto GARCIA BONILLA,N/D,España,M,VET-A,transvulcania,2018
+225,11:07:03,00:00:00,Francisco Javier AGUA ALBUERA,N/D,España,M,SENIOR,transvulcania,2018
+226,11:08:13,00:00:00,Rosalia ZEGARRA,N/D,Perú,F,SENIOR,transvulcania,2018
+227,11:08:23,00:00:00,Fidel MUNIZ BRENES,N/D,España,M,SENIOR,transvulcania,2018
+228,11:08:55,00:00:00,Richard DORTA-ESTEVEZ,N/D,España,M,VET-A,transvulcania,2018
+229,11:10:01,00:00:00,Mark LARSON,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+230,11:10:01,00:00:00,Nabil LOUNIS,N/D,Francia,M,VET-A,transvulcania,2018
+231,11:10:09,00:00:00,Helene MICHAUX,N/D,Francia,F,SENIOR,transvulcania,2018
+232,11:10:56,00:00:00,Álvaro ALONSO-ÁNGEL-DE LA ROSA (Alvaro ALONSO ANGEL DE LA ROSA),N/D,España,M,SENIOR,transvulcania,2018
+233,11:11:36,00:00:00,Marc GRAU-RIBA,N/D,España,M,VET-A,transvulcania,2018
+234,11:11:42,00:00:00,Rogelio RUIZ HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+235,11:11:48,00:00:00,Mario GALINDO-RIOL,N/D,España,M,VET-A,transvulcania,2018
+236,11:11:53,00:00:00,Martin SCHNEEKLOTH,N/D,Estados Unidos,M,VET-A,transvulcania,2018
+237,11:11:58,00:00:00,Daniel MATEU,N/D,España,M,SENIOR,transvulcania,2018
+238,11:12:17,00:00:00,Annemarie GROSS,N/D,Italia,F,VET-A,transvulcania,2018
+239,11:12:34,00:00:00,Jesus GOMEZ-PELAEZ,N/D,España,M,SENIOR,transvulcania,2018
+240,11:12:59,00:00:00,Javier CORRALES,N/D,España,M,SENIOR,transvulcania,2018
+241,11:13:09,00:00:00,Miguel Angel GARCIA RUIZ,N/D,España,M,VET-A,transvulcania,2018
+242,11:13:30,00:00:00,Francisco Antonio CALVO MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+243,11:14:43,00:00:00,Juan-Miguel MEDINA-PERDOMO,N/D,España,M,VET-A,transvulcania,2018
+244,11:15:33,00:00:00,Nicolas MARTIN GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+245,11:15:52,00:00:00,Pablo CHAMORRO,N/D,España,M,SENIOR,transvulcania,2018
+246,11:15:57,00:00:00,Tadeáš MAHEL,N/D,República Checa,M,SENIOR,transvulcania,2018
+247,11:16:15,00:00:00,Tanausú Pablo HERNÁNDEZ MENDOZA,N/D,España,M,SENIOR,transvulcania,2018
+248,11:16:18,00:00:00,Diego GUERRA-GIL,N/D,España,M,SENIOR,transvulcania,2018
+249,11:16:45,00:00:00,Juanfran SUAREZ NAVAJAS,N/D,España,M,SENIOR,transvulcania,2018
+250,11:16:45,00:00:00,Reinaldo LOSADA-CABRERA,N/D,España,M,VET-A,transvulcania,2018
+251,11:16:47,00:00:00,Lukasz BRZESKI,N/D,Polonia,M,SENIOR,transvulcania,2018
+252,11:17:20,00:00:00,Francisco-Xavier RODRIGUEZ-VERDES,N/D,España,M,VET-A,transvulcania,2018
+253,11:17:20,00:00:00,William GIL,N/D,Colombia,M,SENIOR,transvulcania,2018
+254,11:17:22,00:00:00,Voro GUILLEM,N/D,España,M,VET-A,transvulcania,2018
+255,11:17:35,00:00:00,Eduardo GOMEZ MARTINEZ,N/D,España,M,SENIOR,transvulcania,2018
+256,11:17:42,00:00:00,Lisa MEHL,N/D,Alemania,F,SENIOR,transvulcania,2018
+257,11:17:59,00:00:00,Ekkehard RIEGLER,N/D,Austria,M,SENIOR,transvulcania,2018
+258,11:18:06,00:00:00,Claudio-Antonio GARCIA-LUIS,N/D,España,M,VET-A,transvulcania,2018
+259,11:18:09,00:00:00,Garikoitz ZUMETA-ARTOLA,N/D,España,M,SENIOR,transvulcania,2018
+260,11:18:34,00:00:00,Sergei SURMONIN,N/D,Russia,M,VET-B,transvulcania,2018
+261,11:18:49,00:00:00,Carmelo GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+262,11:20:23,00:00:00,Carl-Emil BENGTSSON,N/D,Suecia,M,SENIOR,transvulcania,2018
+263,11:20:29,00:00:00,Igor LOPEZ-MUNIOZGUREN,N/D,España,M,SENIOR,transvulcania,2018
+264,11:20:35,00:00:00,Cristian GARCIA RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+265,11:21:04,00:00:00,Ioannis KOURKOURIKIS,N/D,Grecia,M,VET-A,transvulcania,2018
+266,11:21:32,00:00:00,Amalia SANCHEZ-SALVADOR,N/D,España,F,VET-A,transvulcania,2018
+267,11:21:54,00:00:00,Miguel-Angel HERNANDEZ-CONCEPCIÓN,N/D,España,M,VET-A,transvulcania,2018
+268,11:22:02,00:00:00,Francisco FALCON-ARMAS,N/D,España,M,VET-A,transvulcania,2018
+269,11:22:43,00:00:00,Samir HIJAZI,N/D,Francia,M,SENIOR,transvulcania,2018
+270,11:22:51,00:00:00,Isabel ILLAMOLA-VILALTA,N/D,España,F,VET-B,transvulcania,2018
+271,11:23:17,00:00:00,Ruben CRESPO,N/D,España,M,VET-A,transvulcania,2018
+272,11:24:13,00:00:00,Român SANCHEZ-QUINTERO,N/D,España,M,SENIOR,transvulcania,2018
+273,11:24:39,00:00:00,Jose Luis MAGRO MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+274,11:24:40,00:00:00,Jose-Manuel MARTIN-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+275,11:24:51,00:00:00,Alexander SHCHELKUNOV,N/D,Russia,M,SENIOR,transvulcania,2018
+276,11:25:10,00:00:00,Ryan JAMIESON,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+277,11:25:20,00:00:00,Elizabeth DYSON,N/D,Reino Unido,F,SENIOR,transvulcania,2018
+278,11:25:38,00:00:00,Andoni GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+279,11:25:58,00:00:00,Jonatan ACOSTA-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+280,11:26:06,00:00:00,Orlando-Jose RIVERA-CABRERA,N/D,España,M,VET-A,transvulcania,2018
+281,11:26:45,00:00:00,Sébastien QUESTE,N/D,Francia,M,SENIOR,transvulcania,2018
+282,11:26:52,00:00:00,Benjamin ALIG,N/D,Alemania,M,SENIOR,transvulcania,2018
+283,11:27:26,00:00:00,Tell WOLLERT,N/D,Alemania,M,SENIOR,transvulcania,2018
+284,11:27:55,00:00:00,Michael PETHE,N/D,Suiza,M,SENIOR,transvulcania,2018
+285,11:27:56,00:00:00,Martin-Eduardo PEREZ-CONESA,N/D,España,M,VET-A,transvulcania,2018
+286,11:28:50,00:00:00,Fernando RODRIGUEZ-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+287,11:28:52,00:00:00,Manuel SÁNCHEZ-MARTINO,N/D,España,M,VET-B,transvulcania,2018
+288,11:28:54,00:00:00,Andrew PLATT,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+289,11:29:37,00:00:00,Javi MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+290,11:29:58,00:00:00,Sergio UBIERNA-BENITO,N/D,España,M,SENIOR,transvulcania,2018
+291,11:29:59,00:00:00,Ivan FUENTES-GONZÁLEZ,N/D,España,M,SENIOR,transvulcania,2018
+292,11:30:08,00:00:00,Joel FROIDEVAUX,N/D,Suiza,M,SENIOR,transvulcania,2018
+293,11:30:14,00:00:00,Sergio PEREZ-HERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+294,11:30:25,00:00:00,Miguel Angel FERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+295,11:30:54,00:00:00,Marcos-Jovanni BRITO-GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+296,11:32:18,00:00:00,Carlos GAYANGOS-PASCUAL,N/D,España,M,VET-A,transvulcania,2018
+297,11:32:48,00:00:00,Gustavo QUINTANA GARCÍA,N/D,España,M,VET-A,transvulcania,2018
+298,11:32:55,00:00:00,Joan ROSICH-LLORACH,N/D,España,M,SENIOR,transvulcania,2018
+299,11:33:29,00:00:00,Manuel DIEZ-SEDANO,N/D,España,M,SENIOR,transvulcania,2018
+300,11:33:39,00:00:00,Dailos NAVARRO CAMPOS,N/D,España,M,SENIOR,transvulcania,2018
+301,11:34:01,00:00:00,Cesar ARANGUREN CANGAS,N/D,España,M,SENIOR,transvulcania,2018
+302,11:34:48,00:00:00,Daniel SHAW,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+303,11:34:56,00:00:00,Juan-Pedro SANGIACOMO,N/D,Argentina,M,SENIOR,transvulcania,2018
+304,11:35:20,00:00:00,Francisco RODRÍGUEZ JIMENEZ,N/D,España,M,SENIOR,transvulcania,2018
+305,11:35:32,00:00:00,Bruno Roman PADRON PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+306,11:36:07,00:00:00,Jose Luis SANCHEZ,N/D,España,M,VET-A,transvulcania,2018
+307,11:36:29,00:00:00,Raquel RIVERO-DELGADO,N/D,España,F,VET-A,transvulcania,2018
+308,11:36:36,00:00:00,Mathias GALLER,N/D,Austria,M,SENIOR,transvulcania,2018
+309,11:36:37,00:00:00,Kathrin SCHICHTL,N/D,Alemania,F,SENIOR,transvulcania,2018
+310,11:36:39,00:00:00,Victor IGLESIAS-LOBATO,N/D,España,M,VET-A,transvulcania,2018
+311,11:36:41,00:00:00,Ilka VON HUBATIUS,N/D,Alemania,F,SENIOR,transvulcania,2018
+312,11:36:47,00:00:00,Jacinto PEREZ-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+313,11:36:51,00:00:00,Víctor DE LA CALERA-ISABEL,N/D,España,M,SENIOR,transvulcania,2018
+314,11:36:55,00:00:00,Albert GÜELL-VALLBONA,N/D,España,M,SENIOR,transvulcania,2018
+315,11:36:56,00:00:00,Jordi PRATS FERRUSOLA,N/D,España,M,SENIOR,transvulcania,2018
+316,11:37:12,00:00:00,Airam BÁEZ-ACOSTA,N/D,España,M,SENIOR,transvulcania,2018
+317,11:37:13,00:00:00,Bruno MONTESDEOCA,N/D,España,M,SENIOR,transvulcania,2018
+318,11:38:25,00:00:00,Nauzet GUZMAN-DIAZ,N/D,España,M,SENIOR,transvulcania,2018
+319,11:39:01,00:00:00,David QUINTANA,N/D,España,M,VET-A,transvulcania,2018
+320,11:39:35,00:00:00,Torsten INK,N/D,Alemania,M,VET-A,transvulcania,2018
+321,11:39:39,00:00:00,Francisco SANTANA-CAMACHO,N/D,España,M,SENIOR,transvulcania,2018
+322,11:39:41,00:00:00,Bruno SCHAUB,N/D,Suiza,M,SENIOR,transvulcania,2018
+323,11:40:21,00:00:00,Daniel MARTINEZ GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+324,11:40:45,00:00:00,Juan-Diego GONZALEZ-TORRES,N/D,España,M,VET-A,transvulcania,2018
+325,11:40:54,00:00:00,Emili SELLES-SEGUI,N/D,España,M,SENIOR,transvulcania,2018
+326,11:41:04,00:00:00,Natalia VEGAS GARCIA,N/D,España,F,SENIOR,transvulcania,2018
+327,11:41:09,00:00:00,Mauricio FLORES-BERNABE,N/D,España,M,VET-A,transvulcania,2018
+328,11:41:57,00:00:00,Sergio LOPEZ-EXPOSITO,N/D,España,M,SENIOR,transvulcania,2018
+329,11:42:24,00:00:00,Kevin SUAREZ,N/D,España,M,SENIOR,transvulcania,2018
+330,11:42:39,00:00:00,Oscar MEGIAS-GIL,N/D,España,M,VET-A,transvulcania,2018
+331,11:43:04,00:00:00,Andrew BEATTIE,N/D,Reino Unido,M,VET-A,transvulcania,2018
+332,11:43:09,00:00:00,Mariano COSENZA,N/D,Argentina,M,VET-A,transvulcania,2018
+333,11:43:09,00:00:00,Ayoze SARABIA-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+334,11:43:11,00:00:00,Conrado GONZALEZ-HERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+335,11:43:18,00:00:00,Luis MOLINA HURTADO,N/D,España,M,VET-A,transvulcania,2018
+336,11:43:24,00:00:00,Juan-Carlos MORENO-COMINO,N/D,España,M,SENIOR,transvulcania,2018
+337,11:44:21,00:00:00,Carlos RODRIGUEZ-CABO,N/D,España,M,SENIOR,transvulcania,2018
+338,11:44:46,00:00:00,Daniel ROMAN,N/D,España,M,SENIOR,transvulcania,2018
+339,11:44:48,00:00:00,Jose-Manuel ORELLANA,N/D,España,M,SENIOR,transvulcania,2018
+340,11:45:04,00:00:00,Isaac SANTANA,N/D,España,M,SENIOR,transvulcania,2018
+341,11:45:38,00:00:00,Victoriano MARTIN-LOPEZ,N/D,España,M,VET-B,transvulcania,2018
+342,11:45:54,00:00:00,Damien GOERUNG,N/D,Francia,M,SENIOR,transvulcania,2018
+343,11:46:02,00:00:00,Rupert HITZENBERGER,N/D,Austria,M,SENIOR,transvulcania,2018
+344,11:46:20,00:00:00,Federic TEJEDOR LAUREYS,N/D,España,M,SENIOR,transvulcania,2018
+345,11:46:22,00:00:00,Sergio BARRETO,N/D,España,M,VET-A,transvulcania,2018
+346,11:46:36,00:00:00,Eduardo MARTIN-MOLINA,N/D,España,M,VET-A,transvulcania,2018
+347,11:46:41,00:00:00,Pedro Jose DE LOS REYES,N/D,España,M,VET-A,transvulcania,2018
+348,11:46:42,00:00:00,Javier GARCIA MARICHAL,N/D,España,M,VET-A,transvulcania,2018
+349,11:46:43,00:00:00,Clare PROSSER,N/D,Reino Unido,F,VET-A,transvulcania,2018
+350,11:46:56,00:00:00,Peter ADAMS,N/D,Reino Unido,M,VET-A,transvulcania,2018
+351,11:47:43,00:00:00,Dominik AICHINGER,N/D,Austria,M,VET-B,transvulcania,2018
+352,11:47:51,00:00:00,Florent WADIER,N/D,Francia,M,SENIOR,transvulcania,2018
+353,11:48:51,00:00:00,Jose-Antonio DORTA-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+354,11:48:51,00:00:00,Adal Mahy SANTANA MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+355,11:49:25,00:00:00,Daniel LÓPEZ-SÁNCHEZ,N/D,España,M,VET-A,transvulcania,2018
+356,11:49:26,00:00:00,Javier RABAL-ISO,N/D,España,M,SENIOR,transvulcania,2018
+357,11:49:31,00:00:00,Andoni DIAZ,N/D,España,M,SENIOR,transvulcania,2018
+358,11:49:32,00:00:00,Robert HAMMER,N/D,Alemania,M,SENIOR,transvulcania,2018
+359,11:49:45,00:00:00,Sergio GUEDES SUAREZ,N/D,España,M,VET-A,transvulcania,2018
+360,11:50:32,00:00:00,Paulo Cesar QUINTANILLA CALDERON,N/D,Colombia,M,SENIOR,transvulcania,2018
+361,11:51:03,00:00:00,David HERNANDEZ-ALVAREZ,N/D,España,M,VET-A,transvulcania,2018
+362,11:51:27,00:00:00,Kirill YURKOV,N/D,Russia,M,SENIOR,transvulcania,2018
+363,11:51:38,00:00:00,Richard SHLOVOGT,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+364,11:52:52,00:00:00,Javier BAENA SALVADO,N/D,España,M,VET-A,transvulcania,2018
+365,11:53:00,00:00:00,Pedro Jesus MARRERO VEGA,N/D,España,M,SENIOR,transvulcania,2018
+366,11:53:29,00:00:00,Dimitri PEULEN,N/D,"Países Bajos, Holanda",M,VET-A,transvulcania,2018
+367,11:53:58,00:00:00,Luis-Daniel MARTIN-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+368,11:54:18,00:00:00,Alastair WATSON,N/D,Reino Unido,M,VET-A,transvulcania,2018
+369,11:54:25,00:00:00,Miguel ESPINO-IGLESIAS,N/D,España,M,VET-A,transvulcania,2018
+370,11:54:43,00:00:00,Marcos ALONSO MEDAÑA,N/D,España,M,SENIOR,transvulcania,2018
+371,11:54:58,00:00:00,Myriam GALLET,N/D,Francia,F,VET-A,transvulcania,2018
+372,11:54:59,00:00:00,Melanie CHEVER,N/D,Francia,F,SENIOR,transvulcania,2018
+373,11:55:24,00:00:00,Andre LAUHOFF,N/D,Alemania,M,VET-A,transvulcania,2018
+374,11:55:37,00:00:00,Alexis SUAREZ GARCIA,N/D,España,M,VET-A,transvulcania,2018
+375,11:55:45,00:00:00,Alfredo ÁLVAREZ BARREIRO (Alfredo ALVAREZ BARREIRO),N/D,España,M,VET-A,transvulcania,2018
+376,11:56:09,00:00:00,Enrique ALVAREZ,N/D,España,M,SENIOR,transvulcania,2018
+377,11:56:15,00:00:00,Andre WOLF,N/D,Alemania,M,VET-A,transvulcania,2018
+378,11:56:27,00:00:00,Angel-David EXPOSITO-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+379,11:56:44,00:00:00,Roberto OLIVER BOLÍVAR,N/D,España,M,SENIOR,transvulcania,2018
+380,11:56:53,00:00:00,Stephane TRANCART,N/D,Francia,M,VET-A,transvulcania,2018
+381,11:57:09,00:00:00,Jose Manuel LEBRON MORENO,N/D,España,M,VET-A,transvulcania,2018
+382,11:57:30,00:00:00,Andy ALFORD,N/D,Reino Unido,M,VET-A,transvulcania,2018
+383,11:57:35,00:00:00,Florian SCHOENBERGER,N/D,Alemania,M,SENIOR,transvulcania,2018
+384,11:58:54,00:00:00,Maria RUIZ-PALASI,N/D,España,F,SENIOR,transvulcania,2018
+385,11:58:55,00:00:00,Jose Manuel PINILLOS RUBIO,N/D,España,M,SENIOR,transvulcania,2018
+386,11:59:05,00:00:00,Ivan FURIO PICOT,N/D,España,M,SENIOR,transvulcania,2018
+387,11:59:23,00:00:00,David MORAN-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+388,11:59:25,00:00:00,Hector FUENTES,N/D,España,M,VET-A,transvulcania,2018
+389,11:59:33,00:00:00,Jordi GUITART-RUIZ,N/D,España,M,VET-A,transvulcania,2018
+390,11:59:55,00:00:00,Alex JIMENEZ,N/D,España,M,SENIOR,transvulcania,2018
+391,12:00:00,00:00:00,Jorge-Jesus PULIDO-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+392,12:00:08,00:00:00,Rances GARCIA MORENO,N/D,España,M,SENIOR,transvulcania,2018
+393,12:00:13,00:00:00,Victor-Manuel EXPOSITO-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+394,12:00:35,00:00:00,Arturo PAZ CASTRO,N/D,España,M,VET-A,transvulcania,2018
+395,12:00:53,00:00:00,Andre GANSEN,N/D,Alemania,M,VET-B,transvulcania,2018
+396,12:00:56,00:00:00,Ricardo LUSTRES SAMPEDRO,N/D,España,M,VET-A,transvulcania,2018
+397,12:00:57,00:00:00,Hector CATALA-OLMOS,N/D,España,M,VET-A,transvulcania,2018
+398,12:00:59,00:00:00,Marcus PREIS,N/D,Alemania,M,SENIOR,transvulcania,2018
+399,12:01:04,00:00:00,Francisco Enrique QUINTANA SANCHEZ,N/D,España,M,VET-B,transvulcania,2018
+400,12:01:18,00:00:00,Jordi RASCON-SOTO,N/D,España,M,VET-A,transvulcania,2018
+401,12:01:21,00:00:00,Fran M AVILA GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+402,12:01:33,00:00:00,Jorge CABRERA-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+403,12:01:34,00:00:00,Jose-Salvador LUIS-LORENZO,N/D,España,M,SENIOR,transvulcania,2018
+404,12:02:22,00:00:00,Jonathan COLLADO-ALMEIDA,N/D,España,M,VET-A,transvulcania,2018
+405,12:02:39,00:00:00,Miguel RODRÍGUEZ-PÉREZ,N/D,España,M,SENIOR,transvulcania,2018
+406,12:03:18,00:00:00,David BETTELEY,N/D,Reino Unido,M,VET-A,transvulcania,2018
+407,12:03:29,00:00:00,Patrick MULLER-SUAREZ,N/D,España,M,VET-A,transvulcania,2018
+408,12:03:32,00:00:00,Carlos-Antonio LOPEZ-RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+409,12:03:48,00:00:00,Marisa VILLAGRASA,N/D,España,F,SENIOR,transvulcania,2018
+410,12:03:54,00:00:00,Leonardo GONZALEZ SARMIENTO,N/D,España,M,VET-A,transvulcania,2018
+411,12:04:45,00:00:00,Jose Ramon (moncho) QUEIRUGA CALO,N/D,España,M,SENIOR,transvulcania,2018
+412,12:05:06,00:00:00,Miguel AVELLANEDA DELGADO,N/D,España,M,VET-A,transvulcania,2018
+413,12:05:20,00:00:00,David HERRERA-SUAREZ,N/D,España,M,VET-A,transvulcania,2018
+414,12:05:33,00:00:00,Jose-Francisco SUAREZ-OJEDA,N/D,España,M,VET-B,transvulcania,2018
+415,12:06:06,00:00:00,Ricardo Javier CASTRILLO PIÑERO,N/D,España,M,VET-A,transvulcania,2018
+416,12:06:09,00:00:00,Alejandro PEREZ ECIJA,N/D,España,M,SENIOR,transvulcania,2018
+417,12:06:43,00:00:00,Tim SCHRADER,N/D,Alemania,M,SENIOR,transvulcania,2018
+418,12:07:02,00:00:00,David HARVEY,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+419,12:07:02,00:00:00,David DIAZ MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+420,12:07:48,00:00:00,Marcel PASTRE,N/D,Alemania,M,VET-B,transvulcania,2018
+421,12:08:21,00:00:00,Raul FERNANDEZ PUENTE,N/D,España,M,VET-A,transvulcania,2018
+422,12:08:32,00:00:00,Jose-Ezequiel TORRES-MARRERO,N/D,España,M,SENIOR,transvulcania,2018
+423,12:10:02,00:00:00,Domingo RODRÍGUEZ-SAN NICOLÁS,N/D,España,M,VET-A,transvulcania,2018
+424,12:10:09,00:00:00,Jose-Angel ARANJUELO-LOZANO,N/D,España,M,VET-B,transvulcania,2018
+425,12:10:36,00:00:00,Dailos CAPOTE MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+426,12:11:05,00:00:00,Carlos MARTIN-PEREZ,N/D,España,M,VET-B,transvulcania,2018
+427,12:11:26,00:00:00,Luis Alberto BARBER MARRERO,N/D,España,M,VET-A,transvulcania,2018
+428,12:11:56,00:00:00,Santiago PINO-ROBLES,N/D,España,M,VET-A,transvulcania,2018
+429,12:12:16,00:00:00,Ezequiel CARDENES-SARMIENTO,N/D,España,M,SENIOR,transvulcania,2018
+430,12:12:18,00:00:00,Miguel GOMEZ MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+431,12:12:30,00:00:00,Alberto JERONIMO-JERONIMO,N/D,España,M,SENIOR,transvulcania,2018
+432,12:12:57,00:00:00,Marcos MARTIN-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+433,12:13:08,00:00:00,Alejandro ESTEVEZ-DE MIGUEL,N/D,España,M,VET-A,transvulcania,2018
+434,12:13:14,00:00:00,Rafael ANGULO-MARTINEZ,N/D,España,M,SENIOR,transvulcania,2018
+435,12:13:46,00:00:00,Jonathan VELAZQUEZ-LUTZARDO,N/D,España,M,SENIOR,transvulcania,2018
+436,12:13:46,00:00:00,Ana_belén MARTIN-GONZALEZ,N/D,España,F,VET-A,transvulcania,2018
+437,12:14:04,00:00:00,Jose-Juan PLASENCIA-FUENTES,N/D,España,M,VET-C,transvulcania,2018
+438,12:14:37,00:00:00,Alberto RIVEROLA-LACASTA,N/D,España,M,SENIOR,transvulcania,2018
+439,12:14:38,00:00:00,Guillermo FILLAT ESPUÑA,N/D,España,M,SENIOR,transvulcania,2018
+440,12:14:41,00:00:00,Enrico WIESSNER,N/D,Alemania,M,SENIOR,transvulcania,2018
+441,12:14:45,00:00:00,Roberto Diego TAVANA,N/D,España,M,SENIOR,transvulcania,2018
+442,12:14:52,00:00:00,Esau MEDINA-TOLEDO,N/D,España,M,SENIOR,transvulcania,2018
+443,12:15:09,00:00:00,René MACHÍN-MARTÍN,N/D,España,M,SENIOR,transvulcania,2018
+444,12:15:54,00:00:00,Marco GARCÍA,N/D,España,M,VET-A,transvulcania,2018
+445,12:15:57,00:00:00,Juan-Francisco HERNANDEZ-DE LA ROSA,N/D,España,M,SENIOR,transvulcania,2018
+446,12:17:10,00:00:00,Sandro RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+447,12:17:19,00:00:00,Stina VOLLAN HÖGLUND,N/D,Suecia,F,SENIOR,transvulcania,2018
+448,12:18:09,00:00:00,Daniel STURZENEGGER,N/D,Suiza,M,VET-B,transvulcania,2018
+449,12:18:27,00:00:00,Miguel-Angel MOYA-DONIS,N/D,España,M,SENIOR,transvulcania,2018
+450,12:18:43,00:00:00,Alberto ALVAREZ-LEAL,N/D,España,M,VET-A,transvulcania,2018
+451,12:18:51,00:00:00,Julio RODRIGUEZ-TRIANA,N/D,España,M,VET-C,transvulcania,2018
+452,12:18:52,00:00:00,Miguel GUNTURIZ-MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+453,12:19:01,00:00:00,Jesús MÉNDEZ-MEDINA,N/D,España,M,SENIOR,transvulcania,2018
+454,12:19:10,00:00:00,Thomas SACHER,N/D,Alemania,M,VET-A,transvulcania,2018
+455,12:19:13,00:00:00,Christian NEUHOLD,N/D,Austria,M,VET-A,transvulcania,2018
+456,12:19:55,00:00:00,Francisco FERNANDEZ-FERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+457,12:20:13,00:00:00,Mara LUECKERT,N/D,Alemania,F,VET-A,transvulcania,2018
+458,12:22:06,00:00:00,Anonymous,N/D,España,M,VET-A,transvulcania,2018
+459,12:23:15,00:00:00,Baby MORALES-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+460,12:23:27,00:00:00,Ubaldo GONZÁLEZ FERNÁNDEZ,N/D,España,M,SENIOR,transvulcania,2018
+461,12:23:43,00:00:00,Albert BARRERA CANO,N/D,España,M,SENIOR,transvulcania,2018
+462,12:24:20,00:00:00,Alain DUBOST,N/D,Francia,M,VET-C,transvulcania,2018
+463,12:25:08,00:00:00,Joerg MATZIOL,N/D,España,M,VET-B,transvulcania,2018
+464,12:25:44,00:00:00,Alberto VEGA-MORALES,N/D,España,M,VET-B,transvulcania,2018
+465,12:26:02,00:00:00,Oliver SCHMIDT,N/D,Alemania,M,SENIOR,transvulcania,2018
+466,12:26:14,00:00:00,David PRINCIPE,N/D,España,M,VET-A,transvulcania,2018
+467,12:26:15,00:00:00,Nacho SAEZ HIDALGO,N/D,España,M,VET-B,transvulcania,2018
+468,12:26:25,00:00:00,Christophe PINEL,N/D,Francia,M,VET-A,transvulcania,2018
+469,12:26:31,00:00:00,Francisco Javier PAEZ CABRERA,N/D,España,M,VET-A,transvulcania,2018
+470,12:26:48,00:00:00,Tomas CAPOTE-LAVERS,N/D,España,M,VET-A,transvulcania,2018
+471,12:27:09,00:00:00,Maria GONZALEZ LUJAN,N/D,España,F,VET-A,transvulcania,2018
+472,12:27:10,00:00:00,Francisco Javier CASTILLA-PASCUAL,N/D,España,M,VET-A,transvulcania,2018
+473,12:27:22,00:00:00,William CAZORLA,N/D,España,M,VET-A,transvulcania,2018
+474,12:27:26,00:00:00,Pedro MAYORDOMO GARCIA,N/D,España,M,VET-A,transvulcania,2018
+475,12:27:36,00:00:00,Iballa CASTELLANO,N/D,España,F,SENIOR,transvulcania,2018
+476,12:27:40,00:00:00,Martín OTAL-LOSPAUS,N/D,España,M,VET-A,transvulcania,2018
+477,12:27:57,00:00:00,Roberto-Jesus LEAL-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+478,12:28:10,00:00:00,Luis SICILIA-ROIG,N/D,España,M,VET-A,transvulcania,2018
+479,12:28:17,00:00:00,Eloy DELGADO-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+480,12:28:21,00:00:00,Juan José GONZÁLEZ DONIZ,N/D,España,M,VET-A,transvulcania,2018
+481,12:28:35,00:00:00,Andreas LAMBACHER,N/D,Italia,M,VET-A,transvulcania,2018
+482,12:28:40,00:00:00,Pedro-Antonio GOMEZ-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+483,12:28:49,00:00:00,Andrea TAVANA,N/D,Italia,M,SENIOR,transvulcania,2018
+484,12:28:49,00:00:00,Scot DEDEO,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+485,12:29:20,00:00:00,Jonatan JURADO-CONTRERAS,N/D,España,M,SENIOR,transvulcania,2018
+486,12:29:21,00:00:00,Jacopo BEGGIO,N/D,Italia,M,SENIOR,transvulcania,2018
+487,12:29:27,00:00:00,Eduardo RODRIGUEZ-PIÑERO,N/D,España,M,VET-A,transvulcania,2018
+488,12:29:28,00:00:00,David CACICEDO-CABRERA,N/D,España,M,VET-A,transvulcania,2018
+489,12:29:28,00:00:00,De Las Heras Cantalapiedra JOSE ANTONIO,N/D,España,M,VET-B,transvulcania,2018
+490,12:29:45,00:00:00,Alain PORRET,N/D,Francia,M,VET-B,transvulcania,2018
+491,12:29:49,00:00:00,Oscar DÍEZ,N/D,España,M,VET-A,transvulcania,2018
+492,12:29:51,00:00:00,Joxe FERNANDEZ-PLAZAOLA,N/D,España,M,VET-A,transvulcania,2018
+493,12:29:56,00:00:00,Domingo HERRERA-ARENCIBIA,N/D,España,M,VET-C,transvulcania,2018
+494,12:29:58,00:00:00,Sendoa SANTIAGO,N/D,España,M,SENIOR,transvulcania,2018
+495,12:30:19,00:00:00,Juan-Carlos HERNÁNDEZ-PERDOMO,N/D,España,M,VET-B,transvulcania,2018
+496,12:31:23,00:00:00,Leandro DIAZ,N/D,España,M,SENIOR,transvulcania,2018
+497,12:31:32,00:00:00,Jose Manuel ESCOBEDO FUENTES,N/D,España,M,VET-A,transvulcania,2018
+498,12:31:49,00:00:00,Ruyman GIL GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+499,12:31:49,00:00:00,David-Ruben FRANCISCO-PAGES,N/D,España,M,SENIOR,transvulcania,2018
+500,12:32:22,00:00:00,Victor RIUS GIL,N/D,España,M,SENIOR,transvulcania,2018
+501,12:33:28,00:00:00,Francisco CANTALEJO-ANDRADE,N/D,España,M,SENIOR,transvulcania,2018
+502,12:33:30,00:00:00,Juan-De Dios MATEOS-GARCÉS,N/D,España,M,VET-B,transvulcania,2018
+503,12:33:48,00:00:00,Roberto VÁZQUEZ GARCÍA,N/D,España,M,SENIOR,transvulcania,2018
+504,12:34:04,00:00:00,Diego EXPOSITO,N/D,España,M,VET-A,transvulcania,2018
+505,12:34:08,00:00:00,Juan-Pedro MARTINEZ-JIMENEZ,N/D,España,M,SENIOR,transvulcania,2018
+506,12:34:20,00:00:00,Stefano LEONINO,N/D,Italia,M,SENIOR,transvulcania,2018
+507,12:34:26,00:00:00,Antonio-Manuel GONZALEZ-ACOSTA,N/D,España,M,SENIOR,transvulcania,2018
+508,12:34:27,00:00:00,Jose-Antonio QUESADA-MELIAN,N/D,España,M,VET-A,transvulcania,2018
+509,12:34:44,00:00:00,Guillem CANYELLES FIGUEROLA,N/D,España,M,SENIOR,transvulcania,2018
+510,12:34:59,00:00:00,Jose-Valentin DIAZ-LEON,N/D,España,M,VET-B,transvulcania,2018
+511,12:35:22,00:00:00,David MIGUEL-SUAREZ,N/D,España,M,SENIOR,transvulcania,2018
+512,12:35:40,00:00:00,Miguel-Angel GIL JIMENEZ,N/D,España,M,SENIOR,transvulcania,2018
+513,12:36:07,00:00:00,Alejandro HERNANDEZ-ACOSTA,N/D,España,M,VET-A,transvulcania,2018
+514,12:36:11,00:00:00,Ivan VARELA-DIAZ,N/D,España,M,VET-A,transvulcania,2018
+515,12:36:27,00:00:00,Juan COSTELLO,N/D,Argentina,M,VET-A,transvulcania,2018
+516,12:36:29,00:00:00,Orlando REYES-PADRON,N/D,España,M,VET-A,transvulcania,2018
+517,12:36:34,00:00:00,Manuel JAKOB,N/D,Alemania,M,SENIOR,transvulcania,2018
+518,12:37:00,00:00:00,David GUBERN DOMINGUEZ,N/D,España,M,VET-A,transvulcania,2018
+519,12:37:40,00:00:00,Carlos-Alexis RAMOS-GUERRA,N/D,España,M,VET-A,transvulcania,2018
+520,12:38:27,00:00:00,Rafael ROMAGUERA,N/D,España,M,SENIOR,transvulcania,2018
+521,12:38:43,00:00:00,Elena FRECHILLA-PEREZ,N/D,España,F,VET-A,transvulcania,2018
+522,12:38:45,00:00:00,Jesus-Alberto PEREZ-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+523,12:39:00,00:00:00,Gabriel BRITO-SANCHEZ,N/D,España,M,SENIOR,transvulcania,2018
+524,12:39:16,00:00:00,Cristo Fe GARCÍA MEDINA,N/D,España,M,SENIOR,transvulcania,2018
+525,12:39:41,00:00:00,Toni KERPACH-MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+526,12:39:45,00:00:00,Amaranto MEDINA-SEGURA,N/D,España,M,SENIOR,transvulcania,2018
+527,12:39:46,00:00:00,Carlos Gustavo PEREZ RAVELO,N/D,España,M,SENIOR,transvulcania,2018
+528,12:39:47,00:00:00,Jordi LOPEZ-POLO,N/D,España,M,VET-A,transvulcania,2018
+529,12:41:22,00:00:00,Diego-Miguel MARTIN-MARRERO,N/D,España,M,VET-B,transvulcania,2018
+530,12:41:29,00:00:00,Jose Luis PARICIO MARTINEZ,N/D,España,M,SENIOR,transvulcania,2018
+531,12:41:35,00:00:00,Jonathan DIAZ-ABREU,N/D,España,M,SENIOR,transvulcania,2018
+532,12:41:46,00:00:00,Ivan HUETE BENITEZ,N/D,España,M,VET-A,transvulcania,2018
+533,12:42:05,00:00:00,Raul GALLO,N/D,España,M,SENIOR,transvulcania,2018
+534,12:42:25,00:00:00,Fredrik MOEN,N/D,Noruega,M,SENIOR,transvulcania,2018
+535,12:42:50,00:00:00,Rubén MORENO-AGUILAR,N/D,España,M,SENIOR,transvulcania,2018
+536,12:43:28,00:00:00,Rojany SOUZA,N/D,Brasil,M,VET-B,transvulcania,2018
+537,12:43:35,00:00:00,Juan-Jose MARTIN-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+538,12:43:59,00:00:00,Fernando RIVAS,N/D,Argentina,M,VET-A,transvulcania,2018
+539,12:44:15,00:00:00,Cristina BERNABE-PENA,N/D,España,F,SENIOR,transvulcania,2018
+540,12:44:17,00:00:00,Rayco TANO-BARRETO,N/D,España,M,VET-A,transvulcania,2018
+541,12:44:20,00:00:00,Sara LORENZO RAMOS,N/D,España,F,SENIOR,transvulcania,2018
+542,12:44:28,00:00:00,Raul ALVAREZ,N/D,España,M,SENIOR,transvulcania,2018
+543,12:44:33,00:00:00,Andrea CORVAGLIA,N/D,Italia,M,VET-A,transvulcania,2018
+544,12:44:46,00:00:00,Cedric BERLON,N/D,Francia,M,SENIOR,transvulcania,2018
+545,12:44:47,00:00:00,Geoffrey BIRE,N/D,Francia,M,SENIOR,transvulcania,2018
+546,12:45:01,00:00:00,Francois LANEL,N/D,Francia,M,VET-A,transvulcania,2018
+547,12:45:43,00:00:00,Yaroslav NOSA,N/D,Ucrania,M,SENIOR,transvulcania,2018
+548,12:46:05,00:00:00,Joan PONS-ROQUETA,N/D,España,M,VET-C,transvulcania,2018
+549,12:46:07,00:00:00,Hector SANCHEZ-FERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+550,12:46:11,00:00:00,Felipe HERRERA,N/D,Chile,M,SENIOR,transvulcania,2018
+551,12:46:15,00:00:00,Vicente-Imeldo MOLINA-DONIZ,N/D,España,M,VET-A,transvulcania,2018
+552,12:46:18,00:00:00,Diego CASTRO SULAIMAN,N/D,España,M,VET-A,transvulcania,2018
+553,12:46:27,00:00:00,Maria Antonia BONET RIGO,N/D,España,F,SENIOR,transvulcania,2018
+554,12:46:43,00:00:00,David OCARIZ-FERREIRO,N/D,España,M,VET-A,transvulcania,2018
+555,12:47:21,00:00:00,Timo VOGEL,N/D,Alemania,M,VET-A,transvulcania,2018
+556,12:47:35,00:00:00,Mariano ARGUDO-RAMÍREZ,N/D,España,M,VET-A,transvulcania,2018
+557,12:47:57,00:00:00,Thomas SAILER,N/D,Austria,M,VET-A,transvulcania,2018
+558,12:48:04,00:00:00,Jose-Maria FEITO-HERRANZ,N/D,España,M,SENIOR,transvulcania,2018
+559,12:48:14,00:00:00,Jose-Gabino PALENZUELA-FRANCISCO,N/D,España,M,VET-A,transvulcania,2018
+560,12:48:38,00:00:00,Thomas REBER,N/D,Alemania,M,SENIOR,transvulcania,2018
+561,12:48:38,00:00:00,Karin TÜSCHER,N/D,Suiza,F,SENIOR,transvulcania,2018
+562,12:48:59,00:00:00,Noel ALONSO EXPÓSITO,N/D,España,M,SENIOR,transvulcania,2018
+563,12:49:00,00:00:00,Jose-Ramon HERNANDEZ-SANTANA,N/D,España,M,VET-A,transvulcania,2018
+564,12:49:16,00:00:00,Ivan ROMAÑA RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+565,12:49:33,00:00:00,Alejandro-Arturo GUILLEN-PERERA,N/D,España,M,VET-A,transvulcania,2018
+566,12:49:34,00:00:00,Bernat ALBER TORRES,N/D,España,M,SENIOR,transvulcania,2018
+567,12:49:51,00:00:00,Ignasi FERNANDEZ-PRAT,N/D,España,M,VET-A,transvulcania,2018
+568,12:49:59,00:00:00,Moisés HERNÁNDEZ TOLEDO,N/D,España,M,SENIOR,transvulcania,2018
+569,12:50:06,00:00:00,Rafael PEREZ MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+570,12:50:25,00:00:00,Eder RODRIGUEZ-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+571,12:51:26,00:00:00,Victoria ANDRÉS RUBIO,N/D,España,F,SENIOR,transvulcania,2018
+572,12:52:12,00:00:00,Andrea PICHLMEIER,N/D,Alemania,F,SENIOR,transvulcania,2018
+573,12:52:31,00:00:00,Jose-Manuel ABREU-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+574,12:52:33,00:00:00,Jose-Luis MADRAZO-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+575,12:53:22,00:00:00,Rocio CORZO,N/D,España,F,SENIOR,transvulcania,2018
+576,12:53:22,00:00:00,Samuel RAVELO,N/D,España,M,SENIOR,transvulcania,2018
+577,12:53:38,00:00:00,Rayco BRAVO-HERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+578,12:53:52,00:00:00,Juan URQUIA,N/D,España,M,SENIOR,transvulcania,2018
+579,12:54:07,00:00:00,Marc LITE,N/D,España,M,VET-A,transvulcania,2018
+580,12:54:08,00:00:00,Manuel PINTOR RONCAL,N/D,España,M,VET-A,transvulcania,2018
+581,12:54:16,00:00:00,Martin RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+582,12:54:42,00:00:00,Yesica PEREZ-PEREZ,N/D,España,F,SENIOR,transvulcania,2018
+583,12:55:11,00:00:00,Daniel SILVA ARRIAZA,N/D,España,M,SENIOR,transvulcania,2018
+584,12:55:11,00:00:00,Amando MARQUEZ-SIXTO,N/D,España,M,SENIOR,transvulcania,2018
+585,12:55:11,00:00:00,Jesus RODRIGUEZ-MATOS,N/D,España,M,VET-A,transvulcania,2018
+586,12:55:19,00:00:00,Scott ZIKMANIS,N/D,Reino Unido,M,VET-A,transvulcania,2018
+587,12:55:29,00:00:00,Javier MARRERO DIAZ,N/D,España,M,SENIOR,transvulcania,2018
+588,12:56:18,00:00:00,Ivan MARTIN-ALONSO,N/D,España,M,SENIOR,transvulcania,2018
+589,12:56:37,00:00:00,Luis-Miguel GUERRERO-MORALES,N/D,España,M,VET-B,transvulcania,2018
+590,12:56:37,00:00:00,Erwann KERMANAC'H,N/D,Francia,M,VET-B,transvulcania,2018
+591,12:56:38,00:00:00,Albert GENERO-PRAT,N/D,España,M,SENIOR,transvulcania,2018
+592,12:56:40,00:00:00,Jose-Antonio MENENDEZ-FERNANDEZ,N/D,España,M,VET-B,transvulcania,2018
+593,12:56:46,00:00:00,Maria ORTIZ PEREZ,N/D,España,F,SENIOR,transvulcania,2018
+594,12:56:46,00:00:00,Yolanda MANZANERA,N/D,España,F,VET-A,transvulcania,2018
+595,12:57:05,00:00:00,Francisco Javier LUCAS HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+596,12:57:28,00:00:00,Arnau ESCOLA PUIG,N/D,España,M,SENIOR,transvulcania,2018
+597,12:57:51,00:00:00,Isai SOSA-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+598,12:58:11,00:00:00,Luis Fernando ROMEO,N/D,España,M,VET-A,transvulcania,2018
+599,12:58:23,00:00:00,Francisco-Javier LEMUS-GARCÍA,N/D,España,M,VET-A,transvulcania,2018
+600,12:58:58,00:00:00,Oliver SUAREZ-NAVARRO,N/D,España,M,VET-A,transvulcania,2018
+601,12:58:59,00:00:00,Eduardo IZARZUGAZA-URIBELARREA,N/D,España,M,VET-A,transvulcania,2018
+602,12:59:26,00:00:00,Julio MARTIN,N/D,España,M,VET-A,transvulcania,2018
+603,13:00:03,00:00:00,Dave DOUGLAS,N/D,Reino Unido,M,VET-B,transvulcania,2018
+604,13:01:02,00:00:00,Stephen COUSINS,N/D,Reino Unido,M,VET-A,transvulcania,2018
+605,13:02:16,00:00:00,Josu VILLAR ANABITARTE,N/D,España,M,SENIOR,transvulcania,2018
+606,13:02:43,00:00:00,Luis-Miguel DÍAZ-GONZÁLEZ,N/D,España,M,VET-A,transvulcania,2018
+607,13:02:44,00:00:00,Miki GARCIA HIGUERAS,N/D,España,M,VET-A,transvulcania,2018
+608,13:02:57,00:00:00,Fernando SANTOS MARTIN,N/D,España,M,VET-A,transvulcania,2018
+609,13:03:04,00:00:00,Jose Maria RODRIGUEZ GUERRA,N/D,España,M,SENIOR,transvulcania,2018
+610,13:03:37,00:00:00,Miguel Angel BLASCO,N/D,España,M,VET-A,transvulcania,2018
+611,13:03:38,00:00:00,Rafael PRIEGO,N/D,España,M,VET-A,transvulcania,2018
+612,13:03:39,00:00:00,Anouk BAARS,N/D,"Países Bajos, Holanda",F,VET-A,transvulcania,2018
+613,13:03:44,00:00:00,Ludovic CAMUS,N/D,Francia,M,VET-A,transvulcania,2018
+614,13:04:01,00:00:00,German ROMERA,N/D,España,M,SENIOR,transvulcania,2018
+615,13:04:46,00:00:00,Matej MACHYTKA,N/D,República Checa,M,SENIOR,transvulcania,2018
+616,13:04:49,00:00:00,Giorgio TAVANA,N/D,Italia,M,VET-A,transvulcania,2018
+617,13:04:56,00:00:00,Nelly HERNANDEZ-RODRIGUEZ,N/D,España,F,SENIOR,transvulcania,2018
+618,13:05:09,00:00:00,Ariane GUTKNECHT,N/D,Suiza,F,VET-B,transvulcania,2018
+619,13:05:20,00:00:00,Victor BELLO,N/D,España,M,SENIOR,transvulcania,2018
+620,13:05:47,00:00:00,Peter SCHULZE,N/D,Alemania,M,VET-B,transvulcania,2018
+621,13:06:00,00:00:00,Aythami PERAZA,N/D,España,M,SENIOR,transvulcania,2018
+622,13:06:11,00:00:00,Jose-Fernando SANTANA-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+623,13:06:27,00:00:00,Franacisco Javier ACOSTA ACOSTA,N/D,España,M,VET-A,transvulcania,2018
+624,13:06:41,00:00:00,Yoann HUGUET,N/D,Francia,M,SENIOR,transvulcania,2018
+625,13:07:12,00:00:00,Liz NOAKES,N/D,Reino Unido,F,VET-B,transvulcania,2018
+626,13:07:33,00:00:00,Ricardo RODRIGUEZ-MORALES,N/D,España,M,SENIOR,transvulcania,2018
+627,13:08:02,00:00:00,Jesús Enrique LEAL FERNÁNDEZ,N/D,España,M,VET-A,transvulcania,2018
+628,13:08:24,00:00:00,Carlos-Javier MEDINA-LOPEZ,N/D,España,M,SENIOR,transvulcania,2018
+629,13:08:26,00:00:00,Gil Roberto DIAZ-MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+630,13:08:36,00:00:00,Ivan JUNYENT CAPDEVILA,N/D,España,M,VET-A,transvulcania,2018
+631,13:09:51,00:00:00,Rayco-Zebensui HERNANDEZ-MENDOZA,N/D,España,M,SENIOR,transvulcania,2018
+632,13:09:59,00:00:00,Pedro LEON-MARANTE,N/D,España,M,SENIOR,transvulcania,2018
+633,13:10:24,00:00:00,Jose-Juan JORGE-CASTRO,N/D,España,M,VET-A,transvulcania,2018
+634,13:10:36,00:00:00,Jose MARTINEZ-RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+635,13:10:42,00:00:00,Angel VALLCORBA-FONTCUBERTA,N/D,España,M,VET-A,transvulcania,2018
+636,13:11:27,00:00:00,David ROMERO JUAREZ,N/D,España,M,SENIOR,transvulcania,2018
+637,13:11:37,00:00:00,Jennifer WEBER,N/D,Alemania,F,SENIOR,transvulcania,2018
+638,13:11:47,00:00:00,Matt SIMPSON,N/D,Reino Unido,M,VET-A,transvulcania,2018
+639,13:11:57,00:00:00,Luis VALLADARES SÁNCHEZ,N/D,España,M,VET-A,transvulcania,2018
+640,13:12:00,00:00:00,Joan GRAU-SANTOS,N/D,España,M,SENIOR,transvulcania,2018
+641,13:12:24,00:00:00,Pedro ZABALA-JORQUERA,N/D,España,M,SENIOR,transvulcania,2018
+642,13:12:27,00:00:00,Fernando TORAL-SURIA,N/D,España,M,VET-A,transvulcania,2018
+643,13:12:31,00:00:00,Juan RUIZ HENESTROSA,N/D,España,M,SENIOR,transvulcania,2018
+644,13:12:35,00:00:00,Alberto BURGOS-PLAZA,N/D,España,M,SENIOR,transvulcania,2018
+645,13:14:01,00:00:00,Erik WEICK,N/D,Alemania,M,SENIOR,transvulcania,2018
+646,13:14:24,00:00:00,Felipe LLAGUNA-EGEA,N/D,España,M,SENIOR,transvulcania,2018
+647,13:15:06,00:00:00,Miquel SERRA-VILARDELL,N/D,España,M,VET-A,transvulcania,2018
+648,13:15:24,00:00:00,Lorcan FAGAN,N/D,Irlanda,M,VET-A,transvulcania,2018
+649,13:16:28,00:00:00,Rafael PALOMINO GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+650,13:16:28,00:00:00,Stanislaw KROTKI,N/D,Polonia,M,SENIOR,transvulcania,2018
+651,13:17:22,00:00:00,Aletta VAN STARRENBURG,N/D,"Países Bajos, Holanda",F,SENIOR,transvulcania,2018
+652,13:17:33,00:00:00,Diego HERNÁNDEZ-GÁMEZ,N/D,España,M,SENIOR,transvulcania,2018
+653,13:17:35,00:00:00,Rubens DIAZ-LEAL,N/D,España,M,SENIOR,transvulcania,2018
+654,13:17:59,00:00:00,Angel Isaac GARCIA ZANOTTI,N/D,España,M,SENIOR,transvulcania,2018
+655,13:18:26,00:00:00,Francisco-Javier HERNANDEZ-TOLEDO,N/D,España,M,SENIOR,transvulcania,2018
+656,13:18:26,00:00:00,Jose-Manuel GONZALEZ-LEON,N/D,España,M,SENIOR,transvulcania,2018
+657,13:18:28,00:00:00,Ana AGUIRRE,N/D,España,F,SENIOR,transvulcania,2018
+658,13:18:29,00:00:00,Alberto HIDALGO FERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+659,13:18:43,00:00:00,Patricio CEBALLOS,N/D,Argentina,M,SENIOR,transvulcania,2018
+660,13:18:56,00:00:00,Joao NEVES,N/D,Portugal,M,SENIOR,transvulcania,2018
+661,13:19:10,00:00:00,Carlos GINER,N/D,España,M,VET-A,transvulcania,2018
+662,13:19:25,00:00:00,Oscar JIMENEZ-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+663,13:19:44,00:00:00,Gregoire SURY,N/D,Francia,M,SENIOR,transvulcania,2018
+664,13:19:54,00:00:00,Mariano Ezequiel CALCAGNO,N/D,España,M,VET-A,transvulcania,2018
+665,13:19:56,00:00:00,Klemen BRATUSA,N/D,Eslovenia,M,SENIOR,transvulcania,2018
+666,13:20:00,00:00:00,César GONZÁLEZ-GONZÁLEZ,N/D,España,M,SENIOR,transvulcania,2018
+667,13:20:01,00:00:00,Agoney CURBELO-GUERRA,N/D,España,M,SENIOR,transvulcania,2018
+668,13:20:03,00:00:00,Angel-Luis ALVAREZ-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+669,13:20:10,00:00:00,Daniel RAMOS MENDOZA,N/D,España,M,SENIOR,transvulcania,2018
+670,13:20:27,00:00:00,Paul TIERNEY,N/D,Irlanda,M,SENIOR,transvulcania,2018
+671,13:20:27,00:00:00,Alan WEBB,N/D,Irlanda,M,SENIOR,transvulcania,2018
+672,13:20:48,00:00:00,Will GREEN,N/D,Reino Unido,M,VET-A,transvulcania,2018
+673,13:21:10,00:00:00,Cristobal-Roman MARTIN-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+674,13:21:10,00:00:00,Ferenc ZSOLDOS,N/D,Alemania,M,VET-A,transvulcania,2018
+675,13:21:18,00:00:00,Juan Manuel ALVAREZ CANO,N/D,España,M,SENIOR,transvulcania,2018
+676,13:21:33,00:00:00,Guillem MARCHAL-ORTEGA,N/D,España,M,SENIOR,transvulcania,2018
+677,13:21:40,00:00:00,Jorge GONZÁLEZ PÉREZ,N/D,España,M,SENIOR,transvulcania,2018
+678,13:21:40,00:00:00,Alexis RODRIGUEZ-BRITO,N/D,España,M,SENIOR,transvulcania,2018
+679,13:21:41,00:00:00,Jonay LEAL-ALONSO,N/D,España,M,SENIOR,transvulcania,2018
+680,13:22:20,00:00:00,Helder FERREIRA,N/D,Portugal,M,VET-B,transvulcania,2018
+681,13:22:55,00:00:00,Carlos MARCOS TILLO,N/D,España,M,VET-B,transvulcania,2018
+682,13:23:18,00:00:00,Israel SERRANO-HERMOSA,N/D,España,M,VET-A,transvulcania,2018
+683,13:23:40,00:00:00,Ibai MENDIA-BILBAO,N/D,España,M,SENIOR,transvulcania,2018
+684,13:23:41,00:00:00,Marc RIVERO-ONIEVA,N/D,España,M,SENIOR,transvulcania,2018
+685,13:23:41,00:00:00,Martin EGAÑA-VILLAR,N/D,España,M,VET-B,transvulcania,2018
+686,13:23:41,00:00:00,Andoni BADIOLA-GURIDI,N/D,España,M,SENIOR,transvulcania,2018
+687,13:24:01,00:00:00,Julio MORENO-SANCHEZ,N/D,España,M,VET-A,transvulcania,2018
+688,13:24:02,00:00:00,Sonia SANCHEZ-SANCHEZ,N/D,España,F,VET-A,transvulcania,2018
+689,13:24:33,00:00:00,Pablo MARTINEZ-ROSIQUE,N/D,España,M,SENIOR,transvulcania,2018
+690,13:24:36,00:00:00,Jonatan HERNANDEZ FRIAS,N/D,España,M,SENIOR,transvulcania,2018
+691,13:24:57,00:00:00,Jorge Ivan MARTÍN LORENTE,N/D,España,M,VET-A,transvulcania,2018
+692,13:25:18,00:00:00,Tristan LEE,N/D,Estados Unidos,M,SENIOR,transvulcania,2018
+693,13:25:30,00:00:00,David Jesus DIAZ MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+694,13:25:36,00:00:00,Jose-Javier ORAMAS-GONZALEZ-MORO,N/D,España,M,VET-B,transvulcania,2018
+695,13:25:38,00:00:00,Francisco-Javier FUENTES-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+696,13:25:40,00:00:00,Sabina RODRIGUEZ,N/D,Argentina,F,SENIOR,transvulcania,2018
+697,13:25:42,00:00:00,Jose Manuel RODRIGUEZ CANDON,N/D,España,M,SENIOR,transvulcania,2018
+698,13:25:44,00:00:00,Oliver MIENERT,N/D,Alemania,M,VET-A,transvulcania,2018
+699,13:25:45,00:00:00,Mariano Esteban RODRIGUEZ,N/D,Argentina,M,VET-A,transvulcania,2018
+700,13:25:52,00:00:00,Julio PÉREZ-GONZÁLEZ,N/D,España,M,VET-B,transvulcania,2018
+701,13:26:18,00:00:00,Israel MATAS,N/D,España,M,SENIOR,transvulcania,2018
+702,13:26:19,00:00:00,Jose-Antonio RUIZ-SANTANA,N/D,España,M,VET-B,transvulcania,2018
+703,13:26:33,00:00:00,Juan-Carlos GONZALEZ-LOPEZ,N/D,España,M,VET-A,transvulcania,2018
+704,13:26:50,00:00:00,Jose-Enrique COELLO-DE LA PLAZA,N/D,España,M,SENIOR,transvulcania,2018
+705,13:26:53,00:00:00,Ekaitz LEKUE-ALBISU,N/D,España,M,SENIOR,transvulcania,2018
+706,13:26:53,00:00:00,Jose-Luis PEREZ-EGUIALDE,N/D,España,M,VET-B,transvulcania,2018
+707,13:26:53,00:00:00,Javier GONZALEZ-GOMEZ,N/D,España,M,SENIOR,transvulcania,2018
+708,13:27:04,00:00:00,Tony DELGADO DARIAS,N/D,España,M,VET-B,transvulcania,2018
+709,13:27:07,00:00:00,Enrique LOPEZ-VALENCIANO,N/D,España,M,SENIOR,transvulcania,2018
+710,13:27:26,00:00:00,Daniel SACRAMENTO GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+711,13:27:26,00:00:00,Ibrahim GONZALEZ-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+712,13:27:47,00:00:00,Benjamin CARTER,N/D,Reino Unido,M,VET-A,transvulcania,2018
+713,13:28:02,00:00:00,Ale CEDRES ARMAS,N/D,España,M,SENIOR,transvulcania,2018
+714,13:28:20,00:00:00,David MARIN-MORODO,N/D,España,M,VET-A,transvulcania,2018
+715,13:28:45,00:00:00,José-Isidro SANTOS-YANES,N/D,España,M,VET-A,transvulcania,2018
+716,13:29:03,00:00:00,Shaine REGAN,N/D,Reino Unido,M,VET-A,transvulcania,2018
+717,13:29:20,00:00:00,David PUY CARRION,N/D,España,M,VET-A,transvulcania,2018
+718,13:29:35,00:00:00,Gregorio SALCEDO PERIS,N/D,España,M,SENIOR,transvulcania,2018
+719,13:30:06,00:00:00,Enrique SANCHEZ-SEVILLANO,N/D,España,M,VET-A,transvulcania,2018
+720,13:30:35,00:00:00,Jose-Vicente ACOSTA-PEREZ,N/D,España,M,VET-B,transvulcania,2018
+721,13:30:46,00:00:00,Jose-Luís GONZÁLEZ-MONGE,N/D,España,M,VET-B,transvulcania,2018
+722,13:30:47,00:00:00,Jose SUAREZ-CARDENES,N/D,España,M,VET-B,transvulcania,2018
+723,13:31:08,00:00:00,David GIL RUIZ,N/D,España,M,SENIOR,transvulcania,2018
+724,13:31:12,00:00:00,Juan-Roman ACOSTA-PEREZ,N/D,España,M,VET-B,transvulcania,2018
+725,13:31:17,00:00:00,Grégory NOEL,N/D,Francia,M,SENIOR,transvulcania,2018
+726,13:31:21,00:00:00,Carles BONET-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+727,13:32:09,00:00:00,Ivan DOPAZO-SARIEGO,N/D,España,M,VET-A,transvulcania,2018
+728,13:32:10,00:00:00,Pablo ALVAREZ-LOPEZ,N/D,España,M,VET-A,transvulcania,2018
+729,13:32:13,00:00:00,Stefan VONBUN,N/D,Austria,M,SENIOR,transvulcania,2018
+730,13:32:52,00:00:00,Juan Antonio GUTIERREZ,N/D,España,M,VET-A,transvulcania,2018
+731,13:32:54,00:00:00,Sixto LORENZO FARRRAIS,N/D,España,M,VET-A,transvulcania,2018
+732,13:32:55,00:00:00,Maribel BARROSO ESTEVEZ,N/D,España,F,VET-A,transvulcania,2018
+733,13:32:57,00:00:00,Alejandro DE LEON-FERRER,N/D,España,M,VET-A,transvulcania,2018
+734,13:32:57,00:00:00,Eduardo HOYOS-RODRÍGUEZ,N/D,España,M,VET-A,transvulcania,2018
+735,13:33:36,00:00:00,Ignacio ORTIZ DE MENDIVIL,N/D,España,M,SENIOR,transvulcania,2018
+736,13:34:04,00:00:00,Julien DUBOIS,N/D,Francia,M,SENIOR,transvulcania,2018
+737,13:34:06,00:00:00,Gareth JONES,N/D,Reino Unido,M,VET-B,transvulcania,2018
+738,13:34:12,00:00:00,Miguel Antonio GUIRAO SALAR,N/D,España,M,SENIOR,transvulcania,2018
+739,13:34:12,00:00:00,Pablo CHAMIZO QUILIS,N/D,España,M,SENIOR,transvulcania,2018
+740,13:34:24,00:00:00,Paul FENTON,N/D,Reino Unido,M,VET-A,transvulcania,2018
+741,13:34:36,00:00:00,Javier FARNIER-RUIZ,N/D,España,M,VET-A,transvulcania,2018
+742,13:34:46,00:00:00,Manuel PARDO RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+743,13:34:55,00:00:00,Félix QUINTERO-SACRAMENTO,N/D,España,M,VET-A,transvulcania,2018
+744,13:35:07,00:00:00,Raul MOYA DONIS,N/D,España,M,VET-A,transvulcania,2018
+745,13:35:46,00:00:00,Nicolas BLANCO-INGLES,N/D,España,M,SENIOR,transvulcania,2018
+746,13:35:49,00:00:00,Alexis MONFORT MONFORT,N/D,España,M,SENIOR,transvulcania,2018
+747,13:35:50,00:00:00,Ernesto MANZANEDO-LLORENTE,N/D,España,M,VET-A,transvulcania,2018
+748,13:35:58,00:00:00,Omar FERNANDEZ-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+749,13:35:59,00:00:00,Ruben FERNANDEZ DEL CORRO,N/D,España,M,SENIOR,transvulcania,2018
+750,13:36:37,00:00:00,Ariadna CASAJUANA,N/D,España,F,SENIOR,transvulcania,2018
+751,13:36:41,00:00:00,Ivan CASTANEDA-ALVAREZ,N/D,España,M,SENIOR,transvulcania,2018
+752,13:36:46,00:00:00,Miguel Angel REDONDO SALAS,N/D,España,M,VET-A,transvulcania,2018
+753,13:36:46,00:00:00,Montse SÁNCHEZ DE LAS MATAS,N/D,España,F,VET-A,transvulcania,2018
+754,13:36:47,00:00:00,Frederic MALRAISON,N/D,Francia,M,SENIOR,transvulcania,2018
+755,13:36:48,00:00:00,Julie RACH,N/D,Francia,F,SENIOR,transvulcania,2018
+756,13:36:56,00:00:00,Michael BOHMANN,N/D,Austria,M,VET-A,transvulcania,2018
+757,13:36:58,00:00:00,Thomas SCHMID SUTTER,N/D,España,M,VET-B,transvulcania,2018
+758,13:36:58,00:00:00,Ruyman-Aurelio MELIAN-DELGADO,N/D,España,M,SENIOR,transvulcania,2018
+759,13:36:59,00:00:00,Maik VOGEL,N/D,Alemania,M,VET-B,transvulcania,2018
+760,13:36:59,00:00:00,Jose Antonio GARRIDO CAMPOS,N/D,España,M,VET-B,transvulcania,2018
+761,13:37:07,00:00:00,Andres BERNARDEZ-FERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+762,13:37:17,00:00:00,Juan Carlos TRAVESI,N/D,España,M,VET-A,transvulcania,2018
+763,13:37:37,00:00:00,Iván PEREZ-BARRETO,N/D,España,M,SENIOR,transvulcania,2018
+764,13:38:34,00:00:00,Fernando ORDONEZ-LUQUE,N/D,España,M,VET-A,transvulcania,2018
+765,13:39:29,00:00:00,Manel REVERTE-MOYA,N/D,España,M,VET-A,transvulcania,2018
+766,13:39:43,00:00:00,Marta FLORIT-MOREY,N/D,España,F,SENIOR,transvulcania,2018
+767,13:39:51,00:00:00,Daniel RIVAS-MARTIN,N/D,España,M,VET-A,transvulcania,2018
+768,13:39:53,00:00:00,Lionel DACHAUD,N/D,Francia,M,SENIOR,transvulcania,2018
+769,13:40:00,00:00:00,Andrey LEKHTIN,N/D,Russia,M,VET-A,transvulcania,2018
+770,13:40:23,00:00:00,David HORTAS,N/D,España,M,VET-A,transvulcania,2018
+771,13:40:48,00:00:00,Sergio MEDEROS ARMAS,N/D,España,M,SENIOR,transvulcania,2018
+772,13:40:51,00:00:00,Victor-Manuel MACHIN-GUILLEN,N/D,España,M,VET-A,transvulcania,2018
+773,13:41:02,00:00:00,Eduardo MILLA IJALBA,N/D,España,M,SENIOR,transvulcania,2018
+774,13:41:11,00:00:00,Jose Ramon PEREZ MORILLO,N/D,España,M,VET-B,transvulcania,2018
+775,13:41:11,00:00:00,Angel-Luis CAMACHO-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+776,13:41:14,00:00:00,Victor SAEZ PLAZA,N/D,España,M,VET-B,transvulcania,2018
+777,13:41:38,00:00:00,Moises MARTÍN GARCÍA,N/D,España,M,SENIOR,transvulcania,2018
+778,13:41:44,00:00:00,Daniela SURUGIU,N/D,Rumanía,F,SENIOR,transvulcania,2018
+779,13:42:06,00:00:00,Xevi PEREZ ALONSO,N/D,España,M,VET-A,transvulcania,2018
+780,13:42:10,00:00:00,Francesc GARRIDO,N/D,España,M,VET-A,transvulcania,2018
+781,13:42:34,00:00:00,Ian KNIGHT,N/D,Reino Unido,M,VET-B,transvulcania,2018
+782,13:42:40,00:00:00,Jose-Alfredo BLANCO-VIGIL,N/D,España,M,VET-A,transvulcania,2018
+783,13:42:57,00:00:00,Alejandro LOPE HERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+784,13:43:09,00:00:00,David Carlos ALCALA GALICIA,N/D,España,M,VET-A,transvulcania,2018
+785,13:43:14,00:00:00,Igor ENRIQUE DEL AMO,N/D,España,M,SENIOR,transvulcania,2018
+786,13:43:27,00:00:00,Jens MEYER,N/D,Alemania,M,VET-A,transvulcania,2018
+787,13:43:30,00:00:00,Jean Baptiste ODET,N/D,Francia,M,SENIOR,transvulcania,2018
+788,13:43:42,00:00:00,Pep MAYOLAS-CASAS,N/D,Francia,M,VET-B,transvulcania,2018
+789,13:43:54,00:00:00,Gonzalo RODRIGUEZ-RAMOS,N/D,España,M,VET-B,transvulcania,2018
+790,13:43:56,00:00:00,Arturo GONZALEZ ALANIS,N/D,México,M,VET-B,transvulcania,2018
+791,13:44:03,00:00:00,Jorge LEZA-URIARTE,N/D,España,M,VET-A,transvulcania,2018
+792,13:44:12,00:00:00,Jose-Luis GALLEGO-REY,N/D,España,M,SENIOR,transvulcania,2018
+793,13:44:47,00:00:00,Claudio ACOSTA-VERONA,N/D,España,M,VET-A,transvulcania,2018
+794,13:44:49,00:00:00,Noel GRIMLEY,N/D,Reino Unido,M,VET-B,transvulcania,2018
+795,13:45:03,00:00:00,Craig ALLEN,N/D,Reino Unido,M,VET-A,transvulcania,2018
+796,13:45:10,00:00:00,Isaac COSTA,N/D,Portugal,M,VET-A,transvulcania,2018
+797,13:45:11,00:00:00,Blandine CRAVEIRO,N/D,Portugal,F,VET-A,transvulcania,2018
+798,13:45:12,00:00:00,Lorenzo-David GONZALEZ-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+799,13:45:41,00:00:00,Leon IZUZQUIZA,N/D,España,M,SENIOR,transvulcania,2018
+800,13:45:46,00:00:00,Rayco DIAZ RAMOS,N/D,España,M,SENIOR,transvulcania,2018
+801,13:46:28,00:00:00,Xevi ILLAMOLA VILALTA,N/D,España,M,VET-A,transvulcania,2018
+802,13:46:51,00:00:00,Juan Antonio DOMÍNGUEZ PÉREZ,N/D,España,M,VET-A,transvulcania,2018
+803,13:46:52,00:00:00,Victor GONZALEZ GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+804,13:46:52,00:00:00,Jose-Alberto HERNANDEZ-HERNANDEZ,N/D,España,M,VET-B,transvulcania,2018
+805,13:46:58,00:00:00,Antonio-Manuel MEDINA-GUERRA,N/D,España,M,SENIOR,transvulcania,2018
+806,13:47:11,00:00:00,Carmelo Óscar REYES,N/D,España,M,SENIOR,transvulcania,2018
+807,13:47:28,00:00:00,Diego REYES-MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+808,13:47:45,00:00:00,Richard NEWEY,N/D,Reino Unido,M,VET-B,transvulcania,2018
+809,13:47:49,00:00:00,Anna CHRZĄŚCIK,N/D,Polonia,F,VET-A,transvulcania,2018
+810,13:48:30,00:00:00,Domingo ACOSTA,N/D,España,M,VET-A,transvulcania,2018
+811,13:48:30,00:00:00,Jose-Manuel GARCIA-RODRÍGUEZ,N/D,España,M,VET-A,transvulcania,2018
+812,13:49:13,00:00:00,Luis ARGÜESO-COTO,N/D,España,M,VET-A,transvulcania,2018
+813,13:49:14,00:00:00,Jesus PASTOR-FERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+814,13:49:21,00:00:00,Daniel RODRIGUEZ RAMELLS,N/D,España,M,SENIOR,transvulcania,2018
+815,13:49:22,00:00:00,Ramon RODRIGUEZ RAMELLS,N/D,España,M,SENIOR,transvulcania,2018
+816,13:50:01,00:00:00,Enrique-Jorge PASTOR-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+817,13:51:35,00:00:00,Peter WILMOT,N/D,Reino Unido,M,VET-B,transvulcania,2018
+818,13:51:41,00:00:00,Jose-Antonio CASTAN-PERALTA,N/D,España,M,VET-A,transvulcania,2018
+819,13:52:05,00:00:00,Andres LOZANO GRIJOTA,N/D,España,M,VET-B,transvulcania,2018
+820,13:52:49,00:00:00,Pedro DAVILA-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+821,13:52:50,00:00:00,Fernando AGUILAR-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+822,13:52:53,00:00:00,Eric CUENOT,N/D,Francia,M,VET-A,transvulcania,2018
+823,13:52:53,00:00:00,Tanausu BARRIOS,N/D,España,M,SENIOR,transvulcania,2018
+824,13:52:58,00:00:00,Matt WHYMAN,N/D,Reino Unido,M,VET-A,transvulcania,2018
+825,13:53:02,00:00:00,Jose-Luis MONROS,N/D,España,M,SENIOR,transvulcania,2018
+826,13:53:03,00:00:00,Noel QUEVEDO-AJA,N/D,España,M,SENIOR,transvulcania,2018
+827,13:53:06,00:00:00,Gerard SALA-RIPOLL,N/D,España,M,SENIOR,transvulcania,2018
+828,13:53:26,00:00:00,Martín PARDO-MAZÁS,N/D,España,M,SENIOR,transvulcania,2018
+829,13:53:31,00:00:00,Agustin FARIÑA-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+830,13:53:53,00:00:00,Jose Manuel RIVERO ALBERTO,N/D,España,M,SENIOR,transvulcania,2018
+831,13:54:21,00:00:00,Jonathan KULISCH,N/D,Alemania,M,SENIOR,transvulcania,2018
+832,13:54:24,00:00:00,Julio MEJÍAS-PITTI,N/D,España,M,VET-A,transvulcania,2018
+833,13:54:38,00:00:00,Sergio GONZALEZ-RODRIGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+834,13:54:38,00:00:00,Carlos-Antero SIMÓN-LENTINI,N/D,España,M,SENIOR,transvulcania,2018
+835,13:54:39,00:00:00,José BARRETO-PÉREZ,N/D,España,M,VET-A,transvulcania,2018
+836,13:54:48,00:00:00,Juan Cruz PEREZ GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+837,13:54:48,00:00:00,Pablo GÓMEZ-VICENTE,N/D,España,M,VET-A,transvulcania,2018
+838,13:54:56,00:00:00,Christoph ZIMMERMANN,N/D,Suiza,M,VET-A,transvulcania,2018
+839,13:55:58,00:00:00,Vittorio BENVENUTI,N/D,Italia,M,VET-B,transvulcania,2018
+840,13:55:59,00:00:00,Luis FAYMANN,N/D,Austria,M,SENIOR,transvulcania,2018
+841,13:56:07,00:00:00,Paul O'SULLIVAN,N/D,Irlanda,M,VET-A,transvulcania,2018
+842,13:56:13,00:00:00,Nahum GALEOTE-MARTIN,N/D,España,M,VET-A,transvulcania,2018
+843,13:56:17,00:00:00,Javi SUAREZ-MARTIN,N/D,España,M,VET-A,transvulcania,2018
+844,13:56:28,00:00:00,Luis Carlos TORRES MARTINEZ,N/D,España,M,SENIOR,transvulcania,2018
+845,13:56:43,00:00:00,Rene MAYER,N/D,Suiza,M,VET-B,transvulcania,2018
+846,13:56:47,00:00:00,Pablo MACHUCA-JANINI,N/D,España,M,VET-A,transvulcania,2018
+847,13:56:51,00:00:00,Raul GONZALEZ-CASTELLANO,N/D,España,M,VET-A,transvulcania,2018
+848,13:56:56,00:00:00,Jose AMOROS-MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+849,13:56:57,00:00:00,Mathieu MONTAGNE,N/D,Francia,M,SENIOR,transvulcania,2018
+850,13:57:02,00:00:00,Sandrine BARTHELEMY,N/D,Francia,F,VET-A,transvulcania,2018
+851,13:57:13,00:00:00,Luis ALZOLA FARINA,N/D,España,M,VET-B,transvulcania,2018
+852,13:57:13,00:00:00,Zoe SALT,N/D,Reino Unido,F,SENIOR,transvulcania,2018
+853,13:57:15,00:00:00,Javier DEL FERRERO-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+854,13:57:17,00:00:00,Oscar DEL FERRERO-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+855,13:57:22,00:00:00,Samuel NAVARRO BARRIO,N/D,España,M,SENIOR,transvulcania,2018
+856,13:57:47,00:00:00,Gerardo STARIK,N/D,Argentina,M,VET-A,transvulcania,2018
+857,13:57:49,00:00:00,Antonio PENA MELIAN,N/D,España,M,SENIOR,transvulcania,2018
+858,13:58:15,00:00:00,Felix MORADIELLOS-LOPEZ,N/D,España,M,SENIOR,transvulcania,2018
+859,13:58:16,00:00:00,Cipriano LÓPEZ-SÁNCHEZ,N/D,España,M,VET-A,transvulcania,2018
+860,13:58:22,00:00:00,Luis MADEIRA,N/D,Portugal,M,VET-A,transvulcania,2018
+861,13:58:23,00:00:00,Juan-Diego GUERRA-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+862,13:58:32,00:00:00,Angel PAVON-GUERRA,N/D,España,M,SENIOR,transvulcania,2018
+863,13:58:37,00:00:00,Frederic LE JACQ,N/D,Francia,M,VET-A,transvulcania,2018
+864,13:58:42,00:00:00,Jaime FRANCISCO-PALOMARES,N/D,España,M,SENIOR,transvulcania,2018
+865,13:58:56,00:00:00,David VELASQUEZ DUQUE,N/D,Colombia,M,SENIOR,transvulcania,2018
+866,13:59:04,00:00:00,Alejandro DIAZ-CAMACHO,N/D,España,M,SENIOR,transvulcania,2018
+867,13:59:27,00:00:00,Raul LOMA LOPEZ,N/D,España,M,VET-A,transvulcania,2018
+868,13:59:39,00:00:00,Martin KRAMMER,N/D,Alemania,M,VET-B,transvulcania,2018
+869,13:59:41,00:00:00,Kostya PENKOV,N/D,Reino Unido,M,VET-A,transvulcania,2018
+870,13:59:43,00:00:00,Tobias WECK,N/D,España,M,SENIOR,transvulcania,2018
+871,13:59:50,00:00:00,Frederik STOHR,N/D,Alemania,M,SENIOR,transvulcania,2018
+872,14:00:29,00:00:00,Maria SANCHEZ,N/D,Francia,F,SENIOR,transvulcania,2018
+873,14:00:31,00:00:00,Alain VIVAS-MARTINEZ-DE LAHIDALGA,N/D,España,M,SENIOR,transvulcania,2018
+874,14:00:32,00:00:00,Igor OYARBIDE,N/D,España,M,VET-A,transvulcania,2018
+875,14:01:02,00:00:00,Jose-David CONCEPCION-IZQUIERDO,N/D,España,M,VET-A,transvulcania,2018
+876,14:01:46,00:00:00,Rubens BALLABIO,N/D,Italia,M,SENIOR,transvulcania,2018
+877,14:01:53,00:00:00,Ángel MEJIAS (Angel MEJIAS),N/D,España,M,SENIOR,transvulcania,2018
+878,14:01:57,00:00:00,Milka YNAT-ROSELLO,N/D,España,M,SENIOR,transvulcania,2018
+879,14:02:00,00:00:00,Jose SIMON-PASTOR,N/D,España,M,SENIOR,transvulcania,2018
+880,14:02:11,00:00:00,Martin WINDING,N/D,Dinamarca,M,VET-A,transvulcania,2018
+881,14:02:25,00:00:00,Hamid OUERDANE,N/D,Argelia,M,SENIOR,transvulcania,2018
+882,14:02:25,00:00:00,Garin CEDRIC,N/D,Francia,M,SENIOR,transvulcania,2018
+883,14:02:44,00:00:00,Miguel-Angel BARBER-MARRERO,N/D,España,M,VET-A,transvulcania,2018
+884,14:02:47,00:00:00,Alex ARTIGOT LLUELLAS,N/D,España,M,VET-A,transvulcania,2018
+885,14:02:48,00:00:00,Oscar Luis FELIPE CRUZ,N/D,España,M,VET-A,transvulcania,2018
+886,14:02:49,00:00:00,Pedro BLANCO-ALONSO,N/D,España,M,VET-B,transvulcania,2018
+887,14:03:27,00:00:00,Arthur Joseph Paul ALIPIO,N/D,Filipinas,M,SENIOR,transvulcania,2018
+888,14:03:32,00:00:00,Maria Cristina MORALES,N/D,España,F,SENIOR,transvulcania,2018
+889,14:03:40,00:00:00,Jose-Antonio MOLINA-GONZALEZ,N/D,España,M,VET-B,transvulcania,2018
+890,14:03:48,00:00:00,Enzo GONZALEZ-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+891,14:03:48,00:00:00,Jose Antonio PEREZ PEREZ,N/D,España,M,VET-A,transvulcania,2018
+892,14:03:50,00:00:00,Carlos BERMÚDEZ,N/D,España,M,VET-A,transvulcania,2018
+893,14:04:05,00:00:00,Evaristo GONZALEZ-DIAZ,N/D,España,M,VET-B,transvulcania,2018
+894,14:04:09,00:00:00,Marc JANSZ,N/D,"Países Bajos, Holanda",M,VET-B,transvulcania,2018
+895,14:04:15,00:00:00,Antonio Javier GARCÍA GARCÍA,N/D,España,M,VET-A,transvulcania,2018
+896,14:04:21,00:00:00,José Ángel MEDIAVILLA VICENTE,N/D,España,M,VET-A,transvulcania,2018
+897,14:04:42,00:00:00,Vera GANSEN,N/D,Alemania,F,VET-A,transvulcania,2018
+898,14:04:46,00:00:00,Antonio VERGARA SORIANO,N/D,España,M,VET-A,transvulcania,2018
+899,14:05:13,00:00:00,Jesus-Eduardo HERNÁNDEZ-BETHENCOURT,N/D,España,M,SENIOR,transvulcania,2018
+900,14:05:46,00:00:00,Encarna HIGUERA,N/D,España,F,VET-A,transvulcania,2018
+901,14:06:42,00:00:00,David BALLESTEROS-MANTECAS,N/D,España,M,SENIOR,transvulcania,2018
+902,14:06:44,00:00:00,Francisco LOPEZ-MENDOZA,N/D,España,M,VET-B,transvulcania,2018
+903,14:06:55,00:00:00,Matthias LUECKERT,N/D,Alemania,M,VET-B,transvulcania,2018
+904,14:07:19,00:00:00,Rayco HERNÁNDEZ HERNÁNDEZ,N/D,España,M,SENIOR,transvulcania,2018
+905,14:07:20,00:00:00,Manuel ALVAREZ-PEREZ,N/D,España,M,VET-B,transvulcania,2018
+906,14:07:27,00:00:00,Jose-Manuel GARCÍA-GONZÁLEZ,N/D,España,M,VET-B,transvulcania,2018
+907,14:08:20,00:00:00,Salvador GONZALEZ-TEODORO,N/D,España,M,SENIOR,transvulcania,2018
+908,14:08:20,00:00:00,Carlos MURCIA-VILLANUEVA,N/D,España,M,SENIOR,transvulcania,2018
+909,14:08:34,00:00:00,Ignacio CUTILLAS-ENRIQUE,N/D,España,M,VET-A,transvulcania,2018
+910,14:09:16,00:00:00,Aleksandra VOROBEVA,N/D,Russia,F,SENIOR,transvulcania,2018
+911,14:09:20,00:00:00,Thomas GOLTZ,N/D,Alemania,M,SENIOR,transvulcania,2018
+912,14:09:35,00:00:00,Alejandro-Luciano MOLLO,N/D,Italia,M,VET-A,transvulcania,2018
+913,14:09:35,00:00:00,Juan-Miguel AGUIAR-LOPEZ,N/D,España,M,VET-A,transvulcania,2018
+914,14:09:35,00:00:00,Angel HERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+915,14:09:55,00:00:00,Patricia FERNANDEZ MACHIN,N/D,España,F,SENIOR,transvulcania,2018
+916,14:10:00,00:00:00,Baldomero TARAVILLO MARTIN,N/D,España,M,VET-A,transvulcania,2018
+917,14:10:01,00:00:00,Antonio MARTINEZ-MORENO,N/D,España,M,VET-A,transvulcania,2018
+918,14:11:00,00:00:00,Luis GOMEZ-DE BARREDA-BARTLETT,N/D,España,M,VET-A,transvulcania,2018
+919,14:11:36,00:00:00,Roland GITTINGER,N/D,Alemania,M,VET-B,transvulcania,2018
+920,14:11:39,00:00:00,Giovanni COMPAGNONI,N/D,Italia,M,VET-B,transvulcania,2018
+921,14:11:57,00:00:00,Lars-Olof STRANDBERG,N/D,Suecia,M,VET-A,transvulcania,2018
+922,14:12:20,00:00:00,Isidro PERDOMO-RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+923,14:12:36,00:00:00,Pedro PROVENCIO-SANCHEZ,N/D,España,M,VET-A,transvulcania,2018
+924,14:12:44,00:00:00,Pedro-Javier GUERRA-GUERRA,N/D,España,M,VET-B,transvulcania,2018
+925,14:14:02,00:00:00,Max HOMMEL,N/D,Alemania,M,SENIOR,transvulcania,2018
+926,14:14:19,00:00:00,Fabian GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+927,14:14:34,00:00:00,Agustín MARTEL-GUERRA,N/D,España,M,SENIOR,transvulcania,2018
+928,14:14:34,00:00:00,Jose-Francisco ALONSO-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+929,14:14:45,00:00:00,Miguel-Angel HERNANDEZ-GOMEZ,N/D,España,M,VET-B,transvulcania,2018
+930,14:14:54,00:00:00,Santiago GARCIA MUNOZ,N/D,España,M,VET-A,transvulcania,2018
+931,14:15:36,00:00:00,Mark GLYHOLT,N/D,Dinamarca,M,VET-A,transvulcania,2018
+932,14:15:44,00:00:00,Toni MORAL LIRIO,N/D,España,M,VET-B,transvulcania,2018
+933,14:15:48,00:00:00,Agustin LÓPEZ-LORENZO,N/D,España,M,VET-A,transvulcania,2018
+934,14:15:49,00:00:00,Antonio VELAZQUEZ RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+935,14:16:05,00:00:00,"P, Sergio SANTANA MOLINA",N/D,España,M,VET-A,transvulcania,2018
+936,14:16:44,00:00:00,Domingo AGUILAR JIMENEZ,N/D,España,M,SENIOR,transvulcania,2018
+937,14:17:02,00:00:00,Gustavo BENITEZ,N/D,Argentina,M,VET-A,transvulcania,2018
+938,14:17:18,00:00:00,Steffen STEINERT,N/D,Alemania,M,VET-B,transvulcania,2018
+939,14:18:05,00:00:00,Jesus DE LEON-ROCHA,N/D,España,M,VET-A,transvulcania,2018
+940,14:18:59,00:00:00,David RUFAT,N/D,España,M,VET-A,transvulcania,2018
+941,14:19:02,00:00:00,Aitor AHEDO-PINEDA,N/D,España,M,VET-A,transvulcania,2018
+942,14:19:12,00:00:00,Inigo URIARTE,N/D,España,M,VET-A,transvulcania,2018
+943,14:19:20,00:00:00,Henrik LANGE,N/D,Alemania,M,SENIOR,transvulcania,2018
+944,14:19:27,00:00:00,Johnny-Stubben SIMONSEN,N/D,Dinamarca,M,VET-B,transvulcania,2018
+945,14:19:36,00:00:00,Walter CARTELLI,N/D,Italia,M,VET-C,transvulcania,2018
+946,14:19:36,00:00:00,Martina BEGGIO,N/D,Italia,F,SENIOR,transvulcania,2018
+947,14:19:50,00:00:00,Aleksandr VIKULIN,N/D,Russia,M,VET-A,transvulcania,2018
+948,14:20:12,00:00:00,Nelson Javier GUILLEN,N/D,Argentina,M,SENIOR,transvulcania,2018
+949,14:20:23,00:00:00,Nestor MARTINEZ-CRUZ,N/D,España,M,VET-A,transvulcania,2018
+950,14:20:23,00:00:00,Jorge Ramón RONQUETE NOLASCO,N/D,España,M,VET-A,transvulcania,2018
+951,14:20:34,00:00:00,Mario GOMEZ-FUMERO,N/D,España,M,SENIOR,transvulcania,2018
+952,14:21:03,00:00:00,Jose-Antonio RUIZ-BARBA,N/D,España,M,VET-A,transvulcania,2018
+953,14:21:04,00:00:00,Emilio-José GARCIA-VIVANCOS,N/D,España,M,SENIOR,transvulcania,2018
+954,14:21:12,00:00:00,Darren BENTHAM,N/D,Reino Unido,M,VET-B,transvulcania,2018
+955,14:21:33,00:00:00,Christian MEJIAS-FELIPE,N/D,España,M,VET-A,transvulcania,2018
+956,14:21:34,00:00:00,David BOUZADA,N/D,España,M,VET-A,transvulcania,2018
+957,14:22:00,00:00:00,José-Francisco TEJERA-REYES,N/D,España,M,VET-A,transvulcania,2018
+958,14:22:12,00:00:00,Angie HODGE,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+959,14:22:13,00:00:00,Jose-Andres CASADO-FERNÁNDEZ,N/D,España,M,SENIOR,transvulcania,2018
+960,14:22:28,00:00:00,Antonio ALGABA,N/D,España,M,VET-A,transvulcania,2018
+961,14:22:34,00:00:00,Peter HEIMANN,N/D,Alemania,M,VET-B,transvulcania,2018
+962,14:22:42,00:00:00,Veronica DEL POZO-CASTILLO,N/D,España,F,VET-A,transvulcania,2018
+963,14:22:43,00:00:00,Alberto CHASCO CABALLERO,N/D,España,M,SENIOR,transvulcania,2018
+964,14:22:52,00:00:00,Juan-Miguel MOLINA-GONZALEZ,N/D,España,M,VET-C,transvulcania,2018
+965,14:23:24,00:00:00,Alfredo CONCEPCION-MARTIN,N/D,España,M,VET-B,transvulcania,2018
+966,14:23:25,00:00:00,Owen BOYHAN,N/D,Irlanda,M,VET-A,transvulcania,2018
+967,14:23:27,00:00:00,Margaret TIDES,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+968,14:23:32,00:00:00,Eugen ELLEMUNT,N/D,Alemania,M,VET-C,transvulcania,2018
+969,14:23:32,00:00:00,Miguel-Angel VELA-SOTO,N/D,España,M,VET-C,transvulcania,2018
+970,14:23:39,00:00:00,Jorge-Horacio RODRIGUEZ-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+971,14:23:58,00:00:00,Jesus FERNANDEZ-NAVAS,N/D,España,M,VET-B,transvulcania,2018
+972,14:24:12,00:00:00,Nacho SAAVEDRA MAZON,N/D,España,M,VET-A,transvulcania,2018
+973,14:24:21,00:00:00,Ivan ALONSO-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+974,14:24:35,00:00:00,Guillermo RODRÍGUEZ-MELIÁN,N/D,España,M,VET-B,transvulcania,2018
+975,14:24:38,00:00:00,Christian CARRANCO ARNÓ,N/D,España,M,VET-A,transvulcania,2018
+976,14:24:46,00:00:00,Faustino MORENO-MEDINA,N/D,España,M,VET-B,transvulcania,2018
+977,14:24:48,00:00:00,Sergio RODRÍGUEZ-BRITO,N/D,España,M,VET-A,transvulcania,2018
+978,14:24:58,00:00:00,Sara Luz CEJAS DOMINGUEZ,N/D,España,F,SENIOR,transvulcania,2018
+979,14:24:58,00:00:00,Dailos-Jesus PEREZ-CABRERA,N/D,España,M,SENIOR,transvulcania,2018
+980,14:25:06,00:00:00,Lorenzo REYES-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+981,14:25:15,00:00:00,Javier SANJUAN-FERNANDEZ,N/D,España,M,VET-B,transvulcania,2018
+982,14:25:15,00:00:00,Sergio GOMEZ DOMINGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+983,14:25:16,00:00:00,Andres ARANDA-DELGADO,N/D,España,M,VET-A,transvulcania,2018
+984,14:25:17,00:00:00,Kevin JAOUEN,N/D,Francia,M,SENIOR,transvulcania,2018
+985,14:25:20,00:00:00,Klaus ARNOLD,N/D,Alemania,M,VET-B,transvulcania,2018
+986,14:25:40,00:00:00,Maigualida OJEDA-PÉREZ,N/D,España,F,SENIOR,transvulcania,2018
+987,14:25:45,00:00:00,Jose-Miguel REDONDO-ROBLEDO,N/D,España,M,VET-A,transvulcania,2018
+988,14:25:45,00:00:00,Pedro Manuel VILLAR ARIAS,N/D,España,M,VET-A,transvulcania,2018
+989,14:25:49,00:00:00,Antje UEBERHOLZ,N/D,Alemania,F,VET-B,transvulcania,2018
+990,14:26:11,00:00:00,Miguel FORJAN,N/D,España,M,VET-A,transvulcania,2018
+991,14:26:28,00:00:00,Pedro  Pablo GONZALEZ LORENCES,N/D,España,M,VET-A,transvulcania,2018
+992,14:26:33,00:00:00,Sonia PROCOPIO,N/D,Argentina,F,VET-A,transvulcania,2018
+993,14:26:43,00:00:00,Javier PALOMARES-BUENO,N/D,España,M,VET-A,transvulcania,2018
+994,14:26:59,00:00:00,Maurice NINNEMANN,N/D,Alemania,M,SENIOR,transvulcania,2018
+995,14:27:03,00:00:00,Marc CAMPOS BURGAL,N/D,España,M,SENIOR,transvulcania,2018
+996,14:27:07,00:00:00,Javier GRANELL DOLZ,N/D,España,M,VET-A,transvulcania,2018
+997,14:27:09,00:00:00,Javier SANCHEZ-FELIPE,N/D,España,M,VET-A,transvulcania,2018
+998,14:27:51,00:00:00,Carlos MOLINA,N/D,España,M,VET-B,transvulcania,2018
+999,14:27:52,00:00:00,Montse MOROTE,N/D,España,F,VET-A,transvulcania,2018
+1000,14:28:09,00:00:00,Efrén DÉVORA MESA,N/D,España,M,VET-A,transvulcania,2018
+1001,14:28:18,00:00:00,Cristina SAULEDA SERRA,N/D,España,F,VET-A,transvulcania,2018
+1002,14:28:26,00:00:00,Teodoro GONZALEZ-PEREZ,N/D,España,M,VET-B,transvulcania,2018
+1003,14:28:26,00:00:00,Diego Sebastian ALVAREZ BELTRAN,N/D,España,M,VET-A,transvulcania,2018
+1004,14:28:37,00:00:00,Caroline MOLES,N/D,Reino Unido,F,VET-A,transvulcania,2018
+1005,14:29:37,00:00:00,Ginés MELIÁN,N/D,España,M,VET-B,transvulcania,2018
+1006,14:29:59,00:00:00,Nestor BAEZ PLASENCIA,N/D,España,M,SENIOR,transvulcania,2018
+1007,14:30:05,00:00:00,Juan-Jose ARROCHA-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1008,14:30:08,00:00:00,Miguel Ángel MERINO PÉREZ,N/D,España,M,SENIOR,transvulcania,2018
+1009,14:30:26,00:00:00,Ignacio AFONSO-GUZMAN,N/D,España,M,VET-A,transvulcania,2018
+1010,14:30:36,00:00:00,Agustin FARRONA-DE ARCOS,N/D,España,M,VET-A,transvulcania,2018
+1011,14:30:37,00:00:00,Rubén CAÑADAS-POYATOS,N/D,España,M,VET-A,transvulcania,2018
+1012,14:30:42,00:00:00,Pedro Javier VICENTE FERNANDEZ,N/D,España,M,VET-B,transvulcania,2018
+1013,14:30:44,00:00:00,Rafael DIAZ-MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+1014,14:30:48,00:00:00,Ayoze PEÑATE BARRETO,N/D,España,M,SENIOR,transvulcania,2018
+1015,14:31:13,00:00:00,Ludovic HUBLOT,N/D,Francia,M,VET-A,transvulcania,2018
+1016,14:31:35,00:00:00,Pedro BRITO,N/D,Portugal,M,VET-A,transvulcania,2018
+1017,14:31:36,00:00:00,Rui GAMA,N/D,Portugal,M,VET-A,transvulcania,2018
+1018,14:31:43,00:00:00,Ignacio BRITO-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+1019,14:32:04,00:00:00,Ernesto SOBRINO MARFULL,N/D,España,M,SENIOR,transvulcania,2018
+1020,14:32:10,00:00:00,Toni TALVITIE,N/D,España,M,SENIOR,transvulcania,2018
+1021,14:32:23,00:00:00,Eric GUILLEMETTE,N/D,Francia,M,VET-B,transvulcania,2018
+1022,14:32:26,00:00:00,Alejandro SIQUIER-CHACON,N/D,España,M,VET-A,transvulcania,2018
+1023,14:32:26,00:00:00,Rocio SAUCI-AGÜERA,N/D,España,F,VET-A,transvulcania,2018
+1024,14:32:35,00:00:00,Jose BLANCO,N/D,España,M,VET-A,transvulcania,2018
+1025,14:32:49,00:00:00,Borja MORALES-LUGO,N/D,España,M,SENIOR,transvulcania,2018
+1026,14:32:52,00:00:00,Alberto ARRIETA-GIMENEZ,N/D,España,M,SENIOR,transvulcania,2018
+1027,14:32:53,00:00:00,Ana GRACIA FABRE,N/D,España,F,SENIOR,transvulcania,2018
+1028,14:33:05,00:00:00,Benjamin ROTAR,N/D,Eslovenia,M,VET-A,transvulcania,2018
+1029,14:33:07,00:00:00,Francisco-Ramon MORALES-MEDINA,N/D,España,M,SENIOR,transvulcania,2018
+1030,14:33:31,00:00:00,Jorge BELLO FOUCE,N/D,España,M,VET-A,transvulcania,2018
+1031,14:33:32,00:00:00,Sergio MAESTRE MARTINEZ,N/D,España,M,VET-A,transvulcania,2018
+1032,14:33:48,00:00:00,Juan Alberto HUMANES,N/D,España,M,SENIOR,transvulcania,2018
+1033,14:33:51,00:00:00,Jose-Luis SEVILLANO-RAMIREZ,N/D,España,M,VET-B,transvulcania,2018
+1034,14:33:56,00:00:00,Santiago DORTA-SUAREZ,N/D,España,M,SENIOR,transvulcania,2018
+1035,14:33:59,00:00:00,Óscar MACHÍN PÉREZ (Oscar MACHIN PEREZ),N/D,España,M,SENIOR,transvulcania,2018
+1036,14:34:17,00:00:00,Aki KAIVOLA,N/D,Finlandia,M,SENIOR,transvulcania,2018
+1037,14:34:20,00:00:00,Felix DIAZ-CANIZARES,N/D,España,M,VET-C,transvulcania,2018
+1038,14:34:25,00:00:00,Dominik KLÖPPEL,N/D,Alemania,M,SENIOR,transvulcania,2018
+1039,14:34:30,00:00:00,Daniel ROJO RIOS,N/D,España,M,VET-A,transvulcania,2018
+1040,14:34:37,00:00:00,Rodrigo LAGOS,N/D,Argentina,M,SENIOR,transvulcania,2018
+1041,14:34:40,00:00:00,Miguel RUIZ ALBA,N/D,España,M,SENIOR,transvulcania,2018
+1042,14:34:45,00:00:00,Juan Carlos CANAL MATOS,N/D,España,M,VET-A,transvulcania,2018
+1043,14:34:52,00:00:00,Jose-Luis SAN BLAS-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+1044,14:35:48,00:00:00,Enrique CRUZ-OLIVE,N/D,España,M,VET-B,transvulcania,2018
+1045,14:36:01,00:00:00,Luca POZZI,N/D,Italia,M,VET-B,transvulcania,2018
+1046,14:36:36,00:00:00,Juan CALABUIG BELDA,N/D,España,M,VET-A,transvulcania,2018
+1047,14:36:54,00:00:00,Eddie GIESBRECHT,N/D,Alemania,M,VET-A,transvulcania,2018
+1048,14:36:58,00:00:00,Tim ALDRIDGE,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+1049,14:37:05,00:00:00,Antonio LUIS-RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1050,14:37:08,00:00:00,Victor-Malagon CANADILLAS-DE LA CRUZ,N/D,España,M,VET-B,transvulcania,2018
+1051,14:37:22,00:00:00,Timothy DOWNIE,N/D,Reino Unido,M,VET-C,transvulcania,2018
+1052,14:38:15,00:00:00,Aníbal ROSALES GONZÁLEZ,N/D,España,M,VET-A,transvulcania,2018
+1053,14:38:22,00:00:00,Manuel-Orlando HERNANDEZ-FEO,N/D,España,M,VET-A,transvulcania,2018
+1054,14:38:34,00:00:00,Marina MARTINEZ RASCON,N/D,España,F,SENIOR,transvulcania,2018
+1055,14:39:03,00:00:00,Peter KRIEGL,N/D,Austria,M,VET-B,transvulcania,2018
+1056,14:39:27,00:00:00,Javier MARQUINA-NAVARRO,N/D,España,M,SENIOR,transvulcania,2018
+1057,14:41:00,00:00:00,José Del Cristo SANTANA MELIÁN,N/D,España,M,SENIOR,transvulcania,2018
+1058,14:41:29,00:00:00,Eladio GARCIA-MORENO,N/D,España,M,VET-A,transvulcania,2018
+1059,14:42:12,00:00:00,Pablo RODRIGUEZ MARRERO,N/D,España,M,SENIOR,transvulcania,2018
+1060,14:42:36,00:00:00,Anthony HORYNA,N/D,Reino Unido,M,VET-A,transvulcania,2018
+1061,14:42:37,00:00:00,Roberto PINTADO-CANTARERO,N/D,España,M,VET-A,transvulcania,2018
+1062,14:42:53,00:00:00,Alejandro SUAREZ-NUEZ,N/D,España,M,VET-A,transvulcania,2018
+1063,14:43:16,00:00:00,Ivan DIAZ HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+1064,14:43:25,00:00:00,Tracey BROWN,N/D,Reino Unido,F,VET-B,transvulcania,2018
+1065,14:43:30,00:00:00,Pablo Antonio ANDRÉS GONZÁLEZ,N/D,España,M,VET-A,transvulcania,2018
+1066,14:43:38,00:00:00,Miguel CABEZA-GILABERT,N/D,España,M,SENIOR,transvulcania,2018
+1067,14:43:39,00:00:00,Raul GOMEZ,N/D,España,M,SENIOR,transvulcania,2018
+1068,14:43:58,00:00:00,Juan Jose DE LA CRUZ CRUZ,N/D,España,M,VET-A,transvulcania,2018
+1069,14:44:11,00:00:00,Ruben CUBILLO MEDINA,N/D,España,M,VET-A,transvulcania,2018
+1070,14:44:47,00:00:00,Manuel ALVAREZ-REYES,N/D,España,M,VET-A,transvulcania,2018
+1071,14:44:48,00:00:00,Maria Ines ITURRICASTILLO ITURRIAGA,N/D,España,F,VET-B,transvulcania,2018
+1072,14:44:48,00:00:00,Francisco-Miguel MARTIN-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+1073,14:44:53,00:00:00,Juan CABADO POU,N/D,España,M,VET-A,transvulcania,2018
+1074,14:44:57,00:00:00,Jose-Carlos HERNANDEZ-BRITO,N/D,España,M,VET-B,transvulcania,2018
+1075,14:45:17,00:00:00,Luz_maría ARMAS-SÁNCHEZ,N/D,España,F,VET-B,transvulcania,2018
+1076,14:45:22,00:00:00,Eva Maria CABELLO,N/D,España,F,SENIOR,transvulcania,2018
+1077,14:45:24,00:00:00,Anita BAEZ-NAVARRO,N/D,España,F,SENIOR,transvulcania,2018
+1078,14:45:29,00:00:00,Jaume LLUNELL-GOMEZ,N/D,España,M,SENIOR,transvulcania,2018
+1079,14:45:43,00:00:00,Eduardo-Ramon ARBELO-ALVARADO,N/D,España,M,VET-B,transvulcania,2018
+1080,14:45:58,00:00:00,Roberto DIAZ-ROJAS,N/D,España,M,VET-B,transvulcania,2018
+1081,14:45:59,00:00:00,Roberto DIAZ-GONZALEZ,N/D,España,M,SENIOR,transvulcania,2018
+1082,14:46:06,00:00:00,Jose BARRANCOS GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+1083,14:46:07,00:00:00,Tomas LUCENA DIAZ,N/D,España,M,SENIOR,transvulcania,2018
+1084,14:46:14,00:00:00,Daniel GALVAN HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+1085,14:47:24,00:00:00,Juan-Carlos RODRIGUEZ-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+1086,14:48:09,00:00:00,Jill-Noelle LIZOTTE,N/D,España,F,VET-A,transvulcania,2018
+1087,14:48:39,00:00:00,Benjamin SOTO,N/D,España,M,VET-B,transvulcania,2018
+1088,14:48:54,00:00:00,Antonio GARCIA-CARPINTERO DIAZ,N/D,España,M,VET-A,transvulcania,2018
+1089,14:49:05,00:00:00,Antonio VILLA-CABEZAS,N/D,España,M,VET-A,transvulcania,2018
+1090,14:49:09,00:00:00,Adrián SÁNCHEZ SEIJO,N/D,España,M,SENIOR,transvulcania,2018
+1091,14:49:30,00:00:00,Raúl RODRÍGUEZ-NAVARRO,N/D,España,M,SENIOR,transvulcania,2018
+1092,14:49:35,00:00:00,Rufino Javier DOMINGUEZ GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1093,14:49:48,00:00:00,Jose-Felipe RODRIGUEZ-PARREIRA,N/D,España,M,VET-C,transvulcania,2018
+1094,14:49:49,00:00:00,Miguel Angel GARCIA GOTERA,N/D,España,M,VET-B,transvulcania,2018
+1095,14:49:54,00:00:00,Sergio GARCIA VALLE,N/D,España,M,VET-A,transvulcania,2018
+1096,14:50:24,00:00:00,Sven DENKINGER,N/D,Alemania,M,SENIOR,transvulcania,2018
+1097,14:50:50,00:00:00,Paco GORINA,N/D,España,M,VET-B,transvulcania,2018
+1098,14:51:03,00:00:00,Francisco-Javier MESA-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+1099,14:52:00,00:00:00,Juan-Pablo GIMENO-NAVARRO,N/D,España,M,VET-B,transvulcania,2018
+1100,14:52:06,00:00:00,Norberto GONZALEZ-PEREZ,N/D,España,M,VET-A,transvulcania,2018
+1101,14:52:37,00:00:00,Ramon SANCHEZ-REYES,N/D,España,M,VET-C,transvulcania,2018
+1102,14:52:43,00:00:00,Giulia TORRESI,N/D,Italia,F,SENIOR,transvulcania,2018
+1103,14:52:43,00:00:00,Leonardo PACHECO DIAZ,N/D,Venezuela,M,SENIOR,transvulcania,2018
+1104,14:52:57,00:00:00,Roberto ACOSTA-SANCHEZ,N/D,España,M,SENIOR,transvulcania,2018
+1105,14:53:25,00:00:00,Alberto CASTRO BAENA,N/D,España,M,VET-A,transvulcania,2018
+1106,14:53:37,00:00:00,Valenti FREIXANET,N/D,España,M,SENIOR,transvulcania,2018
+1107,14:53:59,00:00:00,Oscar ESTRADA GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+1108,14:54:10,00:00:00,Monica IMANA,N/D,Perú,F,SENIOR,transvulcania,2018
+1109,14:54:42,00:00:00,Fernando PEIRO,N/D,España,M,VET-A,transvulcania,2018
+1110,14:54:43,00:00:00,Francisco PÉREZ-HERRERO,N/D,España,M,SENIOR,transvulcania,2018
+1111,14:54:52,00:00:00,Selim EL-GHERIANI PIÑOL,N/D,España,M,VET-A,transvulcania,2018
+1112,14:54:53,00:00:00,Carlos-Antonio ARVELO-DORTA,N/D,España,M,VET-A,transvulcania,2018
+1113,14:55:02,00:00:00,Cristo TORRES CARENO,N/D,España,M,SENIOR,transvulcania,2018
+1114,14:55:58,00:00:00,Jesus FERNANDEZ-SERRANO,N/D,España,M,VET-A,transvulcania,2018
+1115,14:57:15,00:00:00,Daniel MENDOZA-ORIHUELA,N/D,España,M,SENIOR,transvulcania,2018
+1116,14:57:15,00:00:00,Juan-Ramon CALERO-JIMENEZ,N/D,España,M,VET-A,transvulcania,2018
+1117,14:58:04,00:00:00,Rafael GARCIA-ARROYO,N/D,España,M,VET-A,transvulcania,2018
+1118,14:58:27,00:00:00,Romina ROTA,N/D,Italia,F,VET-A,transvulcania,2018
+1119,14:58:30,00:00:00,Alessandro CAPELLI,N/D,Italia,M,VET-A,transvulcania,2018
+1120,14:58:34,00:00:00,Adrian CRUJEIRAS,N/D,España,M,SENIOR,transvulcania,2018
+1121,14:58:38,00:00:00,Vicente DE PABLO,N/D,Argentina,M,VET-B,transvulcania,2018
+1122,14:58:41,00:00:00,Daniel HORYNA,N/D,República Checa,M,VET-A,transvulcania,2018
+1123,14:58:49,00:00:00,Markus EHLICH,N/D,Alemania,M,VET-B,transvulcania,2018
+1124,14:59:18,00:00:00,Alfredo LÁZARO-ALCÁNTARA,N/D,España,M,VET-C,transvulcania,2018
+1125,14:59:18,00:00:00,Zoran BARTEK,N/D,República Checa,M,SENIOR,transvulcania,2018
+1126,14:59:29,00:00:00,Felix RUDLOFF,N/D,Alemania,M,VET-A,transvulcania,2018
+1127,14:59:42,00:00:00,Jose-Carmelo PEREZ-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+1128,14:59:42,00:00:00,Romina FURNARI-CAVAILLÉ,N/D,España,F,VET-A,transvulcania,2018
+1129,14:59:46,00:00:00,Miguel Angel GARCIA GARRIDO,N/D,España,M,SENIOR,transvulcania,2018
+1130,14:59:55,00:00:00,José-Gilberto PERDOMO-BATISTA,N/D,España,M,VET-A,transvulcania,2018
+1131,14:59:55,00:00:00,Steven MCDONALD,N/D,Australia,M,VET-A,transvulcania,2018
+1132,14:59:58,00:00:00,David PLASENCIA,N/D,España,M,SENIOR,transvulcania,2018
+1133,15:00:01,00:00:00,Jose Antonio VIDAL PORRAS,N/D,España,M,VET-A,transvulcania,2018
+1134,15:00:31,00:00:00,Salvador SALVATIERRA ATENCIA,N/D,España,M,VET-A,transvulcania,2018
+1135,15:00:43,00:00:00,Francisco CABRAL REYES,N/D,España,M,VET-A,transvulcania,2018
+1136,15:01:59,00:00:00,Juanma PINTO ROMERO,N/D,España,M,SENIOR,transvulcania,2018
+1137,15:02:23,00:00:00,Carine DAUBIGNARD,N/D,Francia,F,SENIOR,transvulcania,2018
+1138,15:03:00,00:00:00,Jose-Ramon SAAVEDRA,N/D,España,M,VET-A,transvulcania,2018
+1139,15:03:04,00:00:00,Josu DOMINGUEZ-ETXEBARRIA,N/D,España,M,VET-A,transvulcania,2018
+1140,15:05:00,00:00:00,Kersten LEICH,N/D,Alemania,M,VET-B,transvulcania,2018
+1141,15:06:26,00:00:00,Victor-Manuel MARTIN-RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+1142,15:06:27,00:00:00,Juan-Felipe GONZALEZ-RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1143,15:06:31,00:00:00,Javier CALLEJA,N/D,España,M,SENIOR,transvulcania,2018
+1144,15:06:36,00:00:00,Francisco Javier MERCADO,N/D,España,M,SENIOR,transvulcania,2018
+1145,15:06:57,00:00:00,Liz MILLER,N/D,Estados Unidos,F,SENIOR,transvulcania,2018
+1146,15:06:57,00:00:00,Scott MUGGLETON,N/D,Estados Unidos,M,VET-A,transvulcania,2018
+1147,15:07:12,00:00:00,Charlotte GIBBS,N/D,Irlanda,F,VET-A,transvulcania,2018
+1148,15:07:42,00:00:00,Andreas KLINKENBERG,N/D,Alemania,M,VET-A,transvulcania,2018
+1149,15:07:49,00:00:00,Iván JORGE-ROGER,N/D,España,M,SENIOR,transvulcania,2018
+1150,15:08:55,00:00:00,Óscar FERRER-GRACIA (Oscar FERRER GRACIA),N/D,España,M,VET-A,transvulcania,2018
+1151,15:09:14,00:00:00,Fernando MARTIN-GUZMAN,N/D,España,M,VET-A,transvulcania,2018
+1152,15:10:10,00:00:00,Raul FERNANDEZ OJEDA,N/D,España,M,VET-A,transvulcania,2018
+1153,15:10:11,00:00:00,Francisco Jose MARTINEZ GARCIA,N/D,España,M,VET-B,transvulcania,2018
+1154,15:10:24,00:00:00,Samuel HERRERA-COELLO,N/D,España,M,VET-A,transvulcania,2018
+1155,15:10:38,00:00:00,Fer RODRIGUEZ-CUESTA,N/D,España,M,VET-A,transvulcania,2018
+1156,15:10:51,00:00:00,José-Alexander GONZÁLEZ-PADRÓN,N/D,España,M,SENIOR,transvulcania,2018
+1157,15:10:57,00:00:00,Manuel ESTEVAS-GUILMAIN DE DIOS,N/D,España,M,SENIOR,transvulcania,2018
+1158,15:11:00,00:00:00,Paul COATES,N/D,Reino Unido,M,VET-B,transvulcania,2018
+1159,15:11:20,00:00:00,David CORREDOR-OCA,N/D,España,M,VET-A,transvulcania,2018
+1160,15:11:43,00:00:00,Erwin VAN BROEKHOVEN,N/D,"Países Bajos, Holanda",M,SENIOR,transvulcania,2018
+1161,15:11:45,00:00:00,Eva SIMONSE,N/D,"Países Bajos, Holanda",F,SENIOR,transvulcania,2018
+1162,15:11:54,00:00:00,Yonatan Jesus RODRIGUEZ DUARTE,N/D,España,M,SENIOR,transvulcania,2018
+1163,15:11:55,00:00:00,Cesar-Dimitri BETANCORT-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1164,15:12:03,00:00:00,Matias MACHIN-GONZALEZ,N/D,España,M,VET-B,transvulcania,2018
+1165,15:12:06,00:00:00,Patric VALLE-SOLTERO,N/D,España,M,VET-B,transvulcania,2018
+1166,15:12:17,00:00:00,Anacleto HERNANDEZ LABRADOR,N/D,España,M,SENIOR,transvulcania,2018
+1167,15:12:26,00:00:00,Francisca VAZQUEZ  BLAZQUEZ,N/D,España,F,VET-A,transvulcania,2018
+1168,15:12:34,00:00:00,Carlos LODEIRO LÓPEZ,N/D,España,M,VET-A,transvulcania,2018
+1169,15:12:50,00:00:00,David BERNABE HERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+1170,15:13:13,00:00:00,Álvaro-Fabián RAMOS-RODRÍGUEZ (Alvaro Fabian RAMOS RODRIGUEZ),N/D,España,M,VET-A,transvulcania,2018
+1171,15:13:37,00:00:00,Mario POHLE,N/D,Alemania,M,SENIOR,transvulcania,2018
+1172,15:13:57,00:00:00,Tomas RAMO,N/D,España,M,VET-A,transvulcania,2018
+1173,15:14:13,00:00:00,Ingrid MONREAL-LEMUS,N/D,España,F,VET-A,transvulcania,2018
+1174,15:14:42,00:00:00,Francisco Javier ROSALES GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1175,15:14:48,00:00:00,Pablo-Ventura GONZÁLEZ-GONZÁLEZ,N/D,España,M,VET-B,transvulcania,2018
+1176,15:15:34,00:00:00,Cristina MALFEITO,N/D,España,F,VET-A,transvulcania,2018
+1177,15:15:50,00:00:00,Guillermo NEBOT TROYANO,N/D,España,M,SENIOR,transvulcania,2018
+1178,15:16:10,00:00:00,Juan-Ramon ORTEGA-GUARDIA,N/D,España,M,VET-A,transvulcania,2018
+1179,15:16:11,00:00:00,Marceliano DIAZ-RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1180,15:16:14,00:00:00,Jonathan GASTON ESCOBAR,N/D,España,M,SENIOR,transvulcania,2018
+1181,15:16:49,00:00:00,Maria-De Las Mercedes OLAVARRIA,N/D,Argentina,F,SENIOR,transvulcania,2018
+1182,15:17:04,00:00:00,Violeta MENESES NAVARRO,N/D,España,F,VET-B,transvulcania,2018
+1183,15:17:19,00:00:00,Miguel DOMINGUEZ,N/D,España,M,VET-A,transvulcania,2018
+1184,15:17:32,00:00:00,Eloy GONZÂLEZ-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+1185,15:17:45,00:00:00,Toni FIOL,N/D,España,M,VET-B,transvulcania,2018
+1186,15:18:00,00:00:00,Adolfo FERRADA,N/D,Chile,M,SENIOR,transvulcania,2018
+1187,15:18:36,00:00:00,Francisco URBANO-ALFARO,N/D,España,M,VET-A,transvulcania,2018
+1188,15:18:40,00:00:00,Alonso-Jesus CORREA-PLASENCIA,N/D,España,M,VET-A,transvulcania,2018
+1189,15:18:49,00:00:00,Herbert REICHLE,N/D,Alemania,M,VET-C,transvulcania,2018
+1190,15:19:00,00:00:00,Rubén BELLO GONZÁLEZ,N/D,España,M,SENIOR,transvulcania,2018
+1191,15:19:17,00:00:00,Jose Antonio CONESA MIÑANO,N/D,España,M,SENIOR,transvulcania,2018
+1192,15:19:32,00:00:00,David DUMARTIN,N/D,Francia,M,VET-A,transvulcania,2018
+1193,15:19:52,00:00:00,Byron LUIS MARTIN,N/D,España,M,SENIOR,transvulcania,2018
+1194,15:19:58,00:00:00,Boris LE GOFF,N/D,Francia,M,SENIOR,transvulcania,2018
+1195,15:20:11,00:00:00,Amador ROCH-BERNAT,N/D,España,M,VET-A,transvulcania,2018
+1196,15:20:23,00:00:00,Luis Alberto PEREZ PEREZ,N/D,España,M,VET-A,transvulcania,2018
+1197,15:20:31,00:00:00,Felipe PALAZON PALAZON,N/D,España,M,VET-A,transvulcania,2018
+1198,15:20:39,00:00:00,Victor-Manuel CRUZ-MONZON,N/D,España,M,VET-A,transvulcania,2018
+1199,15:20:58,00:00:00,William HIGHAM,N/D,Reino Unido,M,SENIOR,transvulcania,2018
+1200,15:20:59,00:00:00,Tim RAYNOR,N/D,Reino Unido,M,VET-B,transvulcania,2018
+1201,15:21:03,00:00:00,Michele MANGIA,N/D,Italia,M,VET-A,transvulcania,2018
+1202,15:21:17,00:00:00,Gustavo CONCEPCIÓN RODRIGUEZ,N/D,España,M,VET-A,transvulcania,2018
+1203,15:21:25,00:00:00,Carlos PÉREZ FERNÁNDEZ,N/D,España,M,VET-A,transvulcania,2018
+1204,15:21:49,00:00:00,Serapio-Antonio GUTIERREZ-CANDELARIO,N/D,España,M,VET-B,transvulcania,2018
+1205,15:22:01,00:00:00,Magnolia Elena DÍAZ BOTELLA,N/D,España,F,VET-A,transvulcania,2018
+1206,15:22:02,00:00:00,María-Del Pino SUÁREZ-RAMOS,N/D,España,F,VET-A,transvulcania,2018
+1207,15:22:03,00:00:00,Maria PARNHAM,N/D,Reino Unido,F,VET-A,transvulcania,2018
+1208,15:22:09,00:00:00,Jordi GARCIA-ANISA,N/D,España,M,SENIOR,transvulcania,2018
+1209,15:22:23,00:00:00,Jose-Manuel MARTIN-POLEGRE,N/D,España,M,VET-A,transvulcania,2018
+1210,15:22:36,00:00:00,Juan Pedro MARTIN LUIS,N/D,España,M,VET-A,transvulcania,2018
+1211,15:22:38,00:00:00,Pia WINKELBLECH,N/D,Alemania,F,VET-A,transvulcania,2018
+1212,15:22:39,00:00:00,Patrick KRIEG,N/D,Alemania,M,VET-A,transvulcania,2018
+1213,15:22:45,00:00:00,Francisca SIERES,N/D,España,F,VET-A,transvulcania,2018
+1214,15:22:46,00:00:00,Macarena DE TORRES-PEREZ,N/D,España,F,SENIOR,transvulcania,2018
+1215,15:23:04,00:00:00,Alena MAKAROVA,N/D,Russia,F,SENIOR,transvulcania,2018
+1216,15:23:45,00:00:00,David GARCIA-ALVAREZ,N/D,España,M,VET-A,transvulcania,2018
+1217,15:23:50,00:00:00,Marcos-Antonio PEREZ-HERNANDEZ,N/D,España,M,VET-A,transvulcania,2018
+1218,15:23:51,00:00:00,Jose-Antonio MARRERO-CHINEA,N/D,España,M,VET-A,transvulcania,2018
+1219,15:24:13,00:00:00,Toni SENDRA-SALA,N/D,España,M,VET-A,transvulcania,2018
+1220,15:24:17,00:00:00,Andres MORALES-VILAR,N/D,España,M,VET-A,transvulcania,2018
+1221,15:24:17,00:00:00,Jose Miguel CORONEL,N/D,España,M,VET-A,transvulcania,2018
+1222,15:24:19,00:00:00,Jose-Carlos CUENCA-GOYA,N/D,España,M,VET-A,transvulcania,2018
+1223,15:24:23,00:00:00,Alfonso GARCIA-NAVARRO,N/D,España,M,VET-A,transvulcania,2018
+1224,15:24:24,00:00:00,Lorenzo BELLIDO CALLADO,N/D,España,M,VET-A,transvulcania,2018
+1225,15:24:27,00:00:00,Vilma GIMENEZ CABRERA,N/D,España,F,VET-A,transvulcania,2018
+1226,15:24:28,00:00:00,Maria-Penelope GONZALEZ-ROMERO,N/D,España,F,VET-A,transvulcania,2018
+1227,15:24:46,00:00:00,Rayco LOPEZ-SANTAMARIA,N/D,España,M,VET-A,transvulcania,2018
+1228,15:25:16,00:00:00,Julián  Enrique GONZÁLEZ RODRÍGUEZ,N/D,España,M,SENIOR,transvulcania,2018
+1229,15:25:55,00:00:00,Sascha DIETER,N/D,Alemania,M,VET-A,transvulcania,2018
+1230,15:26:51,00:00:00,Christoph HOLZAPFEL,N/D,Alemania,M,VET-B,transvulcania,2018
+1231,15:27:21,00:00:00,Dietmar WALTER,N/D,Alemania,M,VET-B,transvulcania,2018
+1232,15:27:41,00:00:00,Ginevra FAVOLE,N/D,Italia,F,SENIOR,transvulcania,2018
+1233,15:27:41,00:00:00,Pablo MARTINEZ SOBRINO,N/D,España,M,SENIOR,transvulcania,2018
+1234,15:27:54,00:00:00,Jesús REYES-MARTÍNEZ,N/D,España,M,VET-A,transvulcania,2018
+1235,15:28:50,00:00:00,Owen WILSON,N/D,Reino Unido,M,VET-A,transvulcania,2018
+1236,15:29:21,00:00:00,Joerg DEMPEWOLF,N/D,España,M,VET-A,transvulcania,2018
+1237,15:29:32,00:00:00,Juan BRAVO-JORGE,N/D,España,M,VET-A,transvulcania,2018
+1238,15:31:02,00:00:00,Francesca BILLI,N/D,Italia,F,VET-A,transvulcania,2018
+1239,15:32:03,00:00:00,Lysiane BOURGEOIS,N/D,Francia,F,SENIOR,transvulcania,2018
+1240,15:32:17,00:00:00,Domingo DE SAN-EUSEBIO-HERNANDEZ,N/D,España,M,VET-B,transvulcania,2018
+1241,15:32:17,00:00:00,Núria MAGDALENA-RODRIGUEZ,N/D,España,F,VET-A,transvulcania,2018
+1242,15:32:40,00:00:00,Alberto DAVOLI,N/D,Italia,M,VET-A,transvulcania,2018
+1243,15:32:41,00:00:00,Francesco VACONDIO,N/D,Italia,M,SENIOR,transvulcania,2018
+1244,15:32:42,00:00:00,Alastair MACCOLL,N/D,Reino Unido,M,VET-B,transvulcania,2018
+1245,15:33:02,00:00:00,Richard PIGOTT,N/D,España,M,VET-A,transvulcania,2018
+1246,15:34:15,00:00:00,Julio Alberto MARTIN SANCHEZ,N/D,España,M,VET-B,transvulcania,2018
+1247,15:34:20,00:00:00,Alejandro DE PAZ-PEREZ,N/D,España,M,SENIOR,transvulcania,2018
+1248,15:34:23,00:00:00,Edgar-M ROQUÉ-DELGADO,N/D,España,M,SENIOR,transvulcania,2018
+1249,15:34:34,00:00:00,Maria HANSEN,N/D,Dinamarca,F,VET-A,transvulcania,2018
+1250,15:34:49,00:00:00,Sonia LEON-GONZALEZ,N/D,España,F,VET-A,transvulcania,2018
+1251,15:37:14,00:00:00,Eduardo CAÑETE TORRELO,N/D,España,M,SENIOR,transvulcania,2018
+1252,15:37:35,00:00:00,Leandro RIVEIRO CANEDO,N/D,España,M,VET-B,transvulcania,2018
+1253,15:37:36,00:00:00,Pastora VÁZQUEZ HERNÁNDEZ,N/D,España,F,VET-A,transvulcania,2018
+1254,15:37:39,00:00:00,Vanessa PARDO PENA,N/D,España,F,VET-A,transvulcania,2018
+1255,15:37:39,00:00:00,Edu SEOANE,N/D,España,M,VET-A,transvulcania,2018
+1256,15:38:48,00:00:00,Jesus-Antonio SAN MARTIN-GAGO,N/D,España,M,VET-B,transvulcania,2018
+1257,15:38:49,00:00:00,M. Alexis LEON PEREZ,N/D,España,M,VET-A,transvulcania,2018
+1258,15:38:55,00:00:00,Irati TAPIA GONZALEZ,N/D,España,F,SENIOR,transvulcania,2018
+1259,15:38:56,00:00:00,David RUIZ-LUNA,N/D,España,M,VET-A,transvulcania,2018
+1260,15:39:16,00:00:00,Gerard DAVIDSON,N/D,Reino Unido,M,VET-A,transvulcania,2018
+1261,15:39:20,00:00:00,Robert GORMAN,N/D,Reino Unido,M,VET-A,transvulcania,2018
+1262,15:40:21,00:00:00,Andres Maria LEKUE GURRUCHAGA,N/D,España,M,VET-C,transvulcania,2018
+1263,15:40:22,00:00:00,Catalina-Clara MORA-RODRIGUEZ,N/D,España,F,VET-B,transvulcania,2018
+1264,15:40:44,00:00:00,Maria GARCIA-SALGUERO,N/D,España,F,VET-B,transvulcania,2018
+1265,15:40:45,00:00:00,Ramón MARTÍN RODRÍGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1266,15:40:52,00:00:00,Andres-Manuel CAPOTE-PERERA,N/D,España,M,VET-B,transvulcania,2018
+1267,15:40:58,00:00:00,Miguel A SANTOS GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1268,15:42:36,00:00:00,Dariusz KOCIEMBA,N/D,Polonia,M,VET-A,transvulcania,2018
+1269,15:42:37,00:00:00,Maciej SLEZIAK,N/D,Polonia,M,SENIOR,transvulcania,2018
+1270,15:44:11,00:00:00,Juan-Ignacio SANTANA-DOMÍNGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1271,15:44:17,00:00:00,Maria Begoña DIAZ ACOSTA,N/D,España,F,VET-A,transvulcania,2018
+1272,15:44:46,00:00:00,Anonymous,N/D,España,M,SENIOR,transvulcania,2018
+1273,15:45:12,00:00:00,Carlos Javier RODRIGUEZ LOPEZ,N/D,España,M,VET-A,transvulcania,2018
+1274,15:45:14,00:00:00,Dani HIDALGO-GARCIA,N/D,España,M,SENIOR,transvulcania,2018
+1275,15:45:14,00:00:00,Séverine BERTIN,N/D,Francia,F,VET-A,transvulcania,2018
+1276,15:45:45,00:00:00,Juan-Alberto HDEZ-CABEZA,N/D,España,M,VET-A,transvulcania,2018
+1277,15:45:48,00:00:00,Fernando ORDÓÑEZ CANO,N/D,España,M,VET-B,transvulcania,2018
+1278,15:46:40,00:00:00,Miguel Angel GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1279,15:47:12,00:00:00,Jose FERNANDEZ-MARTOS,N/D,España,M,VET-B,transvulcania,2018
+1280,15:47:34,00:00:00,Javier GONZALEZ-CORREA,N/D,España,M,VET-A,transvulcania,2018
+1281,15:47:56,00:00:00,Alberto-Renato GENISIO,N/D,Italia,M,VET-A,transvulcania,2018
+1282,15:47:57,00:00:00,Roberto NEGRI,N/D,Italia,M,VET-A,transvulcania,2018
+1283,15:48:37,00:00:00,Julia GRAFFENBERGER,N/D,Alemania,F,SENIOR,transvulcania,2018
+1284,15:49:19,00:00:00,Franck VEREZ,N/D,Australia,M,VET-B,transvulcania,2018
+1285,15:49:28,00:00:00,Valerie STAMM,N/D,Suiza,F,VET-B,transvulcania,2018
+1286,15:49:34,00:00:00,Marc CRUSET,N/D,España,M,SENIOR,transvulcania,2018
+1287,15:49:37,00:00:00,Alex CLEMENTE,N/D,España,M,VET-A,transvulcania,2018
+1288,15:50:09,00:00:00,Jose Ramon ROMERO CAMPOS,N/D,España,M,VET-A,transvulcania,2018
+1289,15:50:10,00:00:00,Juan-Manuel CRUZ-HERNANDEZ,N/D,España,M,VET-B,transvulcania,2018
+1290,15:50:18,00:00:00,Julian BLAZQUEZ MORENO,N/D,España,M,VET-B,transvulcania,2018
+1291,15:50:27,00:00:00,Jose Manuel MORENO BARROCAL,N/D,España,M,VET-A,transvulcania,2018
+1292,15:50:41,00:00:00,Carlos FERNANDEZ-ORTEGA,N/D,España,M,SENIOR,transvulcania,2018
+1293,15:50:53,00:00:00,Juan-Diego CLAVIJO-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+1294,15:51:56,00:00:00,Juan ANTOLI,N/D,España,M,VET-A,transvulcania,2018
+1295,15:52:21,00:00:00,Hacomar RODRÍGUEZ RIVAS,N/D,España,M,SENIOR,transvulcania,2018
+1296,15:53:58,00:00:00,Frank TORRES,N/D,España,M,VET-A,transvulcania,2018
+1297,15:54:34,00:00:00,Jesús PEÑA-GUTIÉRREZ,N/D,España,M,VET-A,transvulcania,2018
+1298,15:55:28,00:00:00,Javier FERNANDEZ VALDES,N/D,España,M,VET-A,transvulcania,2018
+1299,15:55:29,00:00:00,Phelipe EIZAGUIRRE,N/D,España,M,VET-A,transvulcania,2018
+1300,15:55:39,00:00:00,Miguel-Ângel NERIS-HERNÂNDEZ,N/D,España,M,VET-A,transvulcania,2018
+1301,15:55:54,00:00:00,Jose Eduardo RUBIO GOMEZ,N/D,México,M,VET-B,transvulcania,2018
+1302,15:56:00,00:00:00,Robert ALLISON,N/D,Reino Unido,M,VET-C,transvulcania,2018
+1303,15:56:17,00:00:00,Eduardo FERNANDEZ VERSTEEG,N/D,España,M,VET-A,transvulcania,2018
+1304,15:56:18,00:00:00,Detlef TROJAN,N/D,Alemania,M,VET-B,transvulcania,2018
+1305,15:56:19,00:00:00,Sabine MASCHKE,N/D,Alemania,F,VET-A,transvulcania,2018
+1306,15:56:37,00:00:00,Alfredo PASTOR VALLE,N/D,España,M,VET-C,transvulcania,2018
+1307,15:56:37,00:00:00,Israel ADSUAR-SABATER,N/D,España,M,VET-A,transvulcania,2018
+1308,15:57:12,00:00:00,Bruno FERNANDEZ,N/D,España,M,SENIOR,transvulcania,2018
+1309,15:57:36,00:00:00,Ángel BÁEZ ÁLVAREZ (Angel BAEZ ALVAREZ),N/D,España,M,VET-A,transvulcania,2018
+1310,15:57:46,00:00:00,Freddy BRICAUD,N/D,Francia,M,VET-A,transvulcania,2018
+1311,15:57:53,00:00:00,Mathieu LEYRE,N/D,Francia,M,SENIOR,transvulcania,2018
+1312,15:58:21,00:00:00,John Marius HEGSETH,N/D,Noruega,M,SENIOR,transvulcania,2018
+1313,15:58:30,00:00:00,Michiel KOOPMAN,N/D,"Países Bajos, Holanda",M,SENIOR,transvulcania,2018
+1314,15:58:31,00:00:00,Antonio ROMERO TORTOSA,N/D,España,M,SENIOR,transvulcania,2018
+1315,15:58:37,00:00:00,Francesc COMPANY-VENDRELL,N/D,España,M,SENIOR,transvulcania,2018
+1316,15:58:53,00:00:00,Jose-Miguel GONZALEZ-MERIDA,N/D,España,M,VET-A,transvulcania,2018
+1317,15:59:37,00:00:00,Juan-Manuel GIL ROMERO,N/D,España,M,VET-A,transvulcania,2018
+1318,16:00:18,00:00:00,Rocio ANDRADA-VELASCO,N/D,España,F,VET-A,transvulcania,2018
+1319,16:00:18,00:00:00,Manuel SANTOS-MONTIANO,N/D,España,M,VET-B,transvulcania,2018
+1320,16:00:27,00:00:00,Jaume BROS,N/D,España,M,VET-A,transvulcania,2018
+1321,16:00:29,00:00:00,Marcos PANTOJA-RUIZ,N/D,España,M,VET-A,transvulcania,2018
+1322,16:00:35,00:00:00,Bárbara Maria REYES JIMENEZ,N/D,España,F,VET-B,transvulcania,2018
+1323,16:00:58,00:00:00,Alberto DOMINGO-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+1324,16:00:58,00:00:00,Felipe DOMINGO,N/D,España,M,VET-A,transvulcania,2018
+1325,16:01:19,00:00:00,Albert VELASCO-MORENO,N/D,España,M,VET-A,transvulcania,2018
+1326,16:01:23,00:00:00,Luis MEDEROS-TORRES,N/D,España,M,VET-A,transvulcania,2018
+1327,16:01:30,00:00:00,Adrián TARJUELO PÉREZ,N/D,España,M,SENIOR,transvulcania,2018
+1328,16:02:19,00:00:00,Emilio-Jose HERNANDEZ-DOMINGUEZ,N/D,España,M,VET-A,transvulcania,2018
+1329,16:02:20,00:00:00,Mariluz HERNÁNDEZ-DOMINGUEZ,N/D,España,F,VET-A,transvulcania,2018
+1330,16:02:30,00:00:00,Oscar-Ramon ROBAYNA-DELGADO,N/D,España,M,VET-A,transvulcania,2018
+1331,16:03:16,00:00:00,Stephan EDER,N/D,Alemania,M,VET-B,transvulcania,2018
+1332,16:03:54,00:00:00,Carlos VELAYOS,N/D,España,M,VET-A,transvulcania,2018
+1333,16:04:11,00:00:00,Manuel-Francisco MESA-ESCOBAR,N/D,España,M,VET-A,transvulcania,2018
+1334,16:05:10,00:00:00,Javier ESTEVEZ,N/D,España,M,VET-A,transvulcania,2018
+1335,16:05:10,00:00:00,Jorge ALONSO CASUSCELLI,N/D,España,M,VET-C,transvulcania,2018
+1336,16:05:59,00:00:00,Françoise DUCROCQ,N/D,Francia,F,VET-B,transvulcania,2018
+1337,16:06:45,00:00:00,Miguel Angel RODRIGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1338,16:06:52,00:00:00,Fredi VIÑALS-TORRELLA,N/D,España,M,VET-B,transvulcania,2018
+1339,16:07:00,00:00:00,Damian PEREZ CURBELO,N/D,España,M,VET-B,transvulcania,2018
+1340,16:07:33,00:00:00,Yon Ander TOLEDO SARALEGUI,N/D,España,M,VET-A,transvulcania,2018
+1341,16:07:48,00:00:00,Walter MIRANDA,N/D,El Salvador,M,VET-A,transvulcania,2018
+1342,16:07:55,00:00:00,Tino GÜNTHER,N/D,Alemania,M,VET-A,transvulcania,2018
+1343,16:09:00,00:00:00,Juan Carlos GUTIERREZ MENDEZ,N/D,España,M,VET-A,transvulcania,2018
+1344,16:09:00,00:00:00,Alfonso BELLIDO-GONZALEZ,N/D,España,M,VET-A,transvulcania,2018
+1345,16:09:45,00:00:00,Jesus-Salvador MARTIN-TORRES,N/D,España,M,VET-B,transvulcania,2018
+1346,16:10:40,00:00:00,Karl-Heinz DIETERLE,N/D,Alemania,M,VET-C,transvulcania,2018
+1347,16:12:56,00:00:00,Thorsten WAND,N/D,Alemania,M,VET-A,transvulcania,2018
+1348,16:13:26,00:00:00,Juan-De_dios JIMENEZ-MARTIN,N/D,España,M,VET-C,transvulcania,2018
+1349,16:13:27,00:00:00,Víctor-José SÁNCHEZ-RUIZ,N/D,España,M,SENIOR,transvulcania,2018
+1350,16:14:14,00:00:00,Anna JURKIEWICZ,N/D,Reino Unido,F,VET-A,transvulcania,2018
+1351,16:16:33,00:00:00,Julie GRAHAM,N/D,Reino Unido,F,VET-B,transvulcania,2018
+1352,16:18:20,00:00:00,Herman HIDAJAT,N/D,Alemania,M,VET-A,transvulcania,2018
+1353,16:18:21,00:00:00,Arthur PODKOCKI,N/D,España,M,SENIOR,transvulcania,2018
+1354,16:22:16,00:00:00,Toni SANCHEZ-MARGAIX,N/D,España,M,SENIOR,transvulcania,2018
+1355,16:22:16,00:00:00,Llorenç MARGAIX DÍEZ,N/D,España,M,SENIOR,transvulcania,2018
+1356,16:22:57,00:00:00,Patrice DUCROCQ,N/D,Francia,M,VET-B,transvulcania,2018
+1357,16:29:29,00:00:00,Antonio PEREZ-BARROSO,N/D,España,M,VET-B,transvulcania,2018
+1358,16:29:30,00:00:00,Pedro-Manuel BELLO-GARCIA,N/D,España,M,VET-A,transvulcania,2018
+1359,16:29:31,00:00:00,Javier-Jesus MONTESINO-ACOSTA,N/D,España,M,VET-A,transvulcania,2018
+1360,16:30:13,00:00:00,Paul SPRIGGS,N/D,España,M,VET-B,transvulcania,2018
+1361,16:32:28,00:00:00,Carlos DOMÍNGUEZ-QUINTANA,N/D,España,M,VET-A,transvulcania,2018
+1362,16:32:28,00:00:00,Fernando Nicolás CHIRINO RODRÍGUEZ,N/D,España,M,VET-B,transvulcania,2018
+1363,16:36:12,00:00:00,Agata KASPRZYK,N/D,Polonia,F,SENIOR,transvulcania,2018
+1364,16:36:12,00:00:00,Andrew EASTMENT,N/D,Reino Unido,M,VET-B,transvulcania,2018
+1365,16:38:35,00:00:00,Argimiro COLLADO SERRA,N/D,España,M,VET-A,transvulcania,2018
+1366,16:41:10,00:00:00,Silvia VRAVO,N/D,Argentina,F,VET-A,transvulcania,2018
+1367,16:41:10,00:00:00,Pablo RIVERA,N/D,Argentina,M,VET-A,transvulcania,2018
+1368,16:42:43,00:00:00,Joerg PRIES,N/D,Alemania,M,VET-A,transvulcania,2018
