@@ -46,7 +46,7 @@ Subimos los archivos a SQL
 
 De primeras generamos una tabla por carrera y año lo cual nos dejeran unas 33 tablas. 
 
-![plot]'../ETL_TrailRunning/img/tablas.png
+[Alt text](../ETL_TrailRunning/img/tablas.png)
 
 Finalmente se reducen las mismas dejando solo una tabla por carrera y agrupando en la misma todos los años de las carreras para dejar un diseño más claro y funcional
 
